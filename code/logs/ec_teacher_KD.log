@@ -1,0 +1,1004 @@
+nohup: ignoring input
+torch version:  1.13.0+cu117
+torchvision version:  0.14.0+cu117
+loss_ce:22488.6855, loss_kl:0.1386
+Epoch: 001, Validation: 0.0676, Test: 0.0930
+loss_ce:1756.6207, loss_kl:0.0990
+Epoch: 002, Validation: 0.0781, Test: 0.1056
+loss_ce:1558.9473, loss_kl:0.0759
+Epoch: 003, Validation: 0.1023, Test: 0.1331
+loss_ce:1440.3180, loss_kl:0.0718
+Epoch: 004, Validation: 0.1203, Test: 0.1595
+loss_ce:1331.5109, loss_kl:0.0669
+Epoch: 005, Validation: 0.1146, Test: 0.1598
+loss_ce:1234.1920, loss_kl:0.0587
+Epoch: 006, Validation: 0.1317, Test: 0.1786
+loss_ce:1138.4459, loss_kl:0.0558
+Epoch: 007, Validation: 0.1582, Test: 0.2263
+loss_ce:1053.3231, loss_kl:0.0560
+Epoch: 008, Validation: 0.1685, Test: 0.2472
+loss_ce:982.4625, loss_kl:0.0530
+Epoch: 009, Validation: 0.2108, Test: 0.2862
+loss_ce:916.2083, loss_kl:0.0497
+Epoch: 010, Validation: 0.2356, Test: 0.3300
+loss_ce:859.6257, loss_kl:0.0544
+Epoch: 011, Validation: 0.2651, Test: 0.3597
+loss_ce:811.4220, loss_kl:0.0496
+Epoch: 012, Validation: 0.2964, Test: 0.4029
+loss_ce:760.3188, loss_kl:0.0485
+Epoch: 013, Validation: 0.3133, Test: 0.4271
+loss_ce:723.0318, loss_kl:0.0523
+Epoch: 014, Validation: 0.3367, Test: 0.4500
+loss_ce:686.7114, loss_kl:0.0484
+Epoch: 015, Validation: 0.3770, Test: 0.4947
+loss_ce:652.6891, loss_kl:0.0429
+Epoch: 016, Validation: 0.3994, Test: 0.5129
+loss_ce:625.4651, loss_kl:0.0461
+Epoch: 017, Validation: 0.4042, Test: 0.5225
+loss_ce:593.4923, loss_kl:0.0447
+Epoch: 018, Validation: 0.4196, Test: 0.5408
+loss_ce:569.2479, loss_kl:0.0429
+Epoch: 019, Validation: 0.4432, Test: 0.5620
+loss_ce:548.6143, loss_kl:0.0429
+Epoch: 020, Validation: 0.4260, Test: 0.5522
+loss_ce:523.2516, loss_kl:0.0438
+Epoch: 021, Validation: 0.4621, Test: 0.5852
+loss_ce:501.5678, loss_kl:0.0430
+Epoch: 022, Validation: 0.4777, Test: 0.5973
+loss_ce:482.8257, loss_kl:0.0437
+Epoch: 023, Validation: 0.4844, Test: 0.6023
+loss_ce:465.3101, loss_kl:0.0407
+Epoch: 024, Validation: 0.4809, Test: 0.6078
+loss_ce:446.8500, loss_kl:0.0411
+Epoch: 025, Validation: 0.4866, Test: 0.6001
+loss_ce:433.1649, loss_kl:0.0413
+Epoch: 026, Validation: 0.5145, Test: 0.6341
+loss_ce:417.3624, loss_kl:0.0384
+Epoch: 027, Validation: 0.5166, Test: 0.6320
+loss_ce:402.7824, loss_kl:0.0397
+Epoch: 028, Validation: 0.5244, Test: 0.6377
+loss_ce:390.6413, loss_kl:0.0401
+Epoch: 029, Validation: 0.5204, Test: 0.6427
+loss_ce:376.2152, loss_kl:0.0401
+Epoch: 030, Validation: 0.5230, Test: 0.6392
+loss_ce:364.3811, loss_kl:0.0426
+Epoch: 031, Validation: 0.5292, Test: 0.6417
+loss_ce:353.7473, loss_kl:0.0375
+Epoch: 032, Validation: 0.5522, Test: 0.6618
+loss_ce:340.1161, loss_kl:0.0353
+Epoch: 033, Validation: 0.5535, Test: 0.6676
+loss_ce:328.0897, loss_kl:0.0355
+Epoch: 034, Validation: 0.5545, Test: 0.6689
+loss_ce:318.2969, loss_kl:0.0363
+Epoch: 035, Validation: 0.5649, Test: 0.6820
+loss_ce:308.5113, loss_kl:0.0337
+Epoch: 036, Validation: 0.5590, Test: 0.6797
+loss_ce:299.0650, loss_kl:0.0375
+Epoch: 037, Validation: 0.5697, Test: 0.6860
+loss_ce:290.8333, loss_kl:0.0348
+Epoch: 038, Validation: 0.5782, Test: 0.6915
+loss_ce:281.5652, loss_kl:0.0365
+Epoch: 039, Validation: 0.5889, Test: 0.6986
+loss_ce:276.0173, loss_kl:0.0354
+Epoch: 040, Validation: 0.5875, Test: 0.7003
+loss_ce:266.8706, loss_kl:0.0377
+Epoch: 041, Validation: 0.5821, Test: 0.6985
+loss_ce:263.3831, loss_kl:0.0329
+Epoch: 042, Validation: 0.5966, Test: 0.7078
+loss_ce:253.6634, loss_kl:0.0321
+Epoch: 043, Validation: 0.5987, Test: 0.7134
+loss_ce:244.6262, loss_kl:0.0303
+Epoch: 044, Validation: 0.5924, Test: 0.7058
+loss_ce:240.5337, loss_kl:0.0339
+Epoch: 045, Validation: 0.6091, Test: 0.7173
+loss_ce:233.1527, loss_kl:0.0313
+Epoch: 046, Validation: 0.6140, Test: 0.7219
+loss_ce:227.7240, loss_kl:0.0318
+Epoch: 047, Validation: 0.6221, Test: 0.7241
+loss_ce:222.2253, loss_kl:0.0329
+Epoch: 048, Validation: 0.6121, Test: 0.7172
+loss_ce:217.1973, loss_kl:0.0341
+Epoch: 049, Validation: 0.6197, Test: 0.7276
+loss_ce:210.9455, loss_kl:0.0345
+Epoch: 050, Validation: 0.6246, Test: 0.7309
+loss_ce:206.0111, loss_kl:0.0304
+Epoch: 051, Validation: 0.6291, Test: 0.7323
+loss_ce:200.2209, loss_kl:0.0305
+Epoch: 052, Validation: 0.6294, Test: 0.7349
+loss_ce:196.4727, loss_kl:0.0300
+Epoch: 053, Validation: 0.6277, Test: 0.7346
+loss_ce:189.4543, loss_kl:0.0338
+Epoch: 054, Validation: 0.6416, Test: 0.7410
+loss_ce:188.4925, loss_kl:0.0305
+Epoch: 055, Validation: 0.6366, Test: 0.7377
+loss_ce:181.3511, loss_kl:0.0282
+Epoch: 056, Validation: 0.6334, Test: 0.7429
+loss_ce:177.1144, loss_kl:0.0302
+Epoch: 057, Validation: 0.6387, Test: 0.7407
+loss_ce:175.6775, loss_kl:0.0287
+Epoch: 058, Validation: 0.6391, Test: 0.7434
+loss_ce:168.2280, loss_kl:0.0297
+Epoch: 059, Validation: 0.6545, Test: 0.7527
+loss_ce:167.4463, loss_kl:0.0307
+Epoch: 060, Validation: 0.6715, Test: 0.7565
+loss_ce:163.3393, loss_kl:0.0285
+Epoch: 061, Validation: 0.6679, Test: 0.7514
+loss_ce:162.1974, loss_kl:0.0291
+Epoch: 062, Validation: 0.6647, Test: 0.7528
+loss_ce:157.9807, loss_kl:0.0289
+Epoch: 063, Validation: 0.6696, Test: 0.7563
+loss_ce:153.4845, loss_kl:0.0281
+Epoch: 064, Validation: 0.6760, Test: 0.7588
+loss_ce:151.2705, loss_kl:0.0250
+Epoch: 065, Validation: 0.6676, Test: 0.7582
+loss_ce:149.4637, loss_kl:0.0295
+Epoch: 066, Validation: 0.6766, Test: 0.7663
+loss_ce:146.9854, loss_kl:0.0270
+Epoch: 067, Validation: 0.6743, Test: 0.7599
+loss_ce:143.2007, loss_kl:0.0280
+Epoch: 068, Validation: 0.6746, Test: 0.7633
+loss_ce:138.9953, loss_kl:0.0260
+Epoch: 069, Validation: 0.6754, Test: 0.7658
+loss_ce:137.4586, loss_kl:0.0266
+Epoch: 070, Validation: 0.6882, Test: 0.7749
+loss_ce:135.3381, loss_kl:0.0239
+Epoch: 071, Validation: 0.6795, Test: 0.7669
+loss_ce:133.4900, loss_kl:0.0271
+Epoch: 072, Validation: 0.6850, Test: 0.7719
+loss_ce:130.8734, loss_kl:0.0293
+Epoch: 073, Validation: 0.6934, Test: 0.7756
+loss_ce:128.8863, loss_kl:0.0264
+Epoch: 074, Validation: 0.6844, Test: 0.7720
+loss_ce:126.3238, loss_kl:0.0253
+Epoch: 075, Validation: 0.6909, Test: 0.7758
+loss_ce:126.9295, loss_kl:0.0263
+Epoch: 076, Validation: 0.6891, Test: 0.7733
+loss_ce:121.7587, loss_kl:0.0260
+Epoch: 077, Validation: 0.6901, Test: 0.7753
+loss_ce:120.8811, loss_kl:0.0258
+Epoch: 078, Validation: 0.6963, Test: 0.7805
+loss_ce:118.7699, loss_kl:0.0249
+Epoch: 079, Validation: 0.6987, Test: 0.7793
+loss_ce:117.1228, loss_kl:0.0258
+Epoch: 080, Validation: 0.6973, Test: 0.7766
+loss_ce:115.3826, loss_kl:0.0256
+Epoch: 081, Validation: 0.7070, Test: 0.7854
+loss_ce:112.3524, loss_kl:0.0244
+Epoch: 082, Validation: 0.7051, Test: 0.7836
+loss_ce:110.4833, loss_kl:0.0228
+Epoch: 083, Validation: 0.6989, Test: 0.7838
+loss_ce:110.7625, loss_kl:0.0246
+Epoch: 084, Validation: 0.7074, Test: 0.7891
+loss_ce:108.4725, loss_kl:0.0237
+Epoch: 085, Validation: 0.7133, Test: 0.7853
+loss_ce:106.3247, loss_kl:0.0242
+Epoch: 086, Validation: 0.7118, Test: 0.7904
+loss_ce:104.7021, loss_kl:0.0231
+Epoch: 087, Validation: 0.7060, Test: 0.7815
+loss_ce:104.7209, loss_kl:0.0235
+Epoch: 088, Validation: 0.7142, Test: 0.7934
+loss_ce:102.0368, loss_kl:0.0223
+Epoch: 089, Validation: 0.7127, Test: 0.7880
+loss_ce:100.2055, loss_kl:0.0218
+Epoch: 090, Validation: 0.7168, Test: 0.7902
+loss_ce:98.8130, loss_kl:0.0225
+Epoch: 091, Validation: 0.7167, Test: 0.7903
+loss_ce:97.8223, loss_kl:0.0234
+Epoch: 092, Validation: 0.7223, Test: 0.7963
+loss_ce:96.8152, loss_kl:0.0220
+Epoch: 093, Validation: 0.7217, Test: 0.7966
+loss_ce:95.3942, loss_kl:0.0217
+Epoch: 094, Validation: 0.7169, Test: 0.7941
+loss_ce:92.7021, loss_kl:0.0229
+Epoch: 095, Validation: 0.7228, Test: 0.7901
+loss_ce:92.7395, loss_kl:0.0205
+Epoch: 096, Validation: 0.7282, Test: 0.7977
+loss_ce:91.6729, loss_kl:0.0232
+Epoch: 097, Validation: 0.7209, Test: 0.7950
+loss_ce:89.9687, loss_kl:0.0209
+Epoch: 098, Validation: 0.7195, Test: 0.7994
+loss_ce:89.0433, loss_kl:0.0207
+Epoch: 099, Validation: 0.7237, Test: 0.7951
+loss_ce:86.9061, loss_kl:0.0219
+Epoch: 100, Validation: 0.7282, Test: 0.7970
+loss_ce:86.7829, loss_kl:0.0229
+Epoch: 101, Validation: 0.7341, Test: 0.8009
+loss_ce:85.2883, loss_kl:0.0211
+Epoch: 102, Validation: 0.7284, Test: 0.7998
+loss_ce:83.2027, loss_kl:0.0228
+Epoch: 103, Validation: 0.7280, Test: 0.8001
+loss_ce:83.4891, loss_kl:0.0222
+Epoch: 104, Validation: 0.7354, Test: 0.7996
+loss_ce:82.1186, loss_kl:0.0193
+Epoch: 105, Validation: 0.7296, Test: 0.8002
+loss_ce:81.1418, loss_kl:0.0199
+Epoch: 106, Validation: 0.7330, Test: 0.8033
+loss_ce:79.1856, loss_kl:0.0207
+Epoch: 107, Validation: 0.7344, Test: 0.8061
+loss_ce:77.9453, loss_kl:0.0208
+Epoch: 108, Validation: 0.7300, Test: 0.8003
+loss_ce:78.1472, loss_kl:0.0190
+Epoch: 109, Validation: 0.7375, Test: 0.8058
+loss_ce:77.6334, loss_kl:0.0197
+Epoch: 110, Validation: 0.7409, Test: 0.8071
+loss_ce:76.5774, loss_kl:0.0210
+Epoch: 111, Validation: 0.7406, Test: 0.8077
+loss_ce:76.1835, loss_kl:0.0198
+Epoch: 112, Validation: 0.7427, Test: 0.8085
+loss_ce:74.7274, loss_kl:0.0189
+Epoch: 113, Validation: 0.7363, Test: 0.8061
+loss_ce:74.2860, loss_kl:0.0195
+Epoch: 114, Validation: 0.7384, Test: 0.8064
+loss_ce:74.0458, loss_kl:0.0189
+Epoch: 115, Validation: 0.7420, Test: 0.8091
+loss_ce:73.5451, loss_kl:0.0181
+Epoch: 116, Validation: 0.7431, Test: 0.8077
+loss_ce:70.3772, loss_kl:0.0186
+Epoch: 117, Validation: 0.7462, Test: 0.8078
+loss_ce:71.0746, loss_kl:0.0179
+Epoch: 118, Validation: 0.7423, Test: 0.8085
+loss_ce:69.5651, loss_kl:0.0171
+Epoch: 119, Validation: 0.7422, Test: 0.8098
+loss_ce:69.2575, loss_kl:0.0161
+Epoch: 120, Validation: 0.7436, Test: 0.8123
+loss_ce:69.2594, loss_kl:0.0187
+Epoch: 121, Validation: 0.7475, Test: 0.8084
+loss_ce:67.5526, loss_kl:0.0194
+Epoch: 122, Validation: 0.7497, Test: 0.8130
+loss_ce:68.1653, loss_kl:0.0186
+Epoch: 123, Validation: 0.7458, Test: 0.8098
+loss_ce:66.5433, loss_kl:0.0173
+Epoch: 124, Validation: 0.7511, Test: 0.8137
+loss_ce:66.3659, loss_kl:0.0185
+Epoch: 125, Validation: 0.7532, Test: 0.8125
+loss_ce:65.2850, loss_kl:0.0187
+Epoch: 126, Validation: 0.7549, Test: 0.8148
+loss_ce:64.8584, loss_kl:0.0174
+Epoch: 127, Validation: 0.7593, Test: 0.8147
+loss_ce:62.4642, loss_kl:0.0173
+Epoch: 128, Validation: 0.7519, Test: 0.8138
+loss_ce:64.4327, loss_kl:0.0167
+Epoch: 129, Validation: 0.7533, Test: 0.8138
+loss_ce:63.7036, loss_kl:0.0177
+Epoch: 130, Validation: 0.7529, Test: 0.8124
+loss_ce:62.5535, loss_kl:0.0168
+Epoch: 131, Validation: 0.7528, Test: 0.8165
+loss_ce:61.5971, loss_kl:0.0169
+Epoch: 132, Validation: 0.7527, Test: 0.8165
+loss_ce:60.7299, loss_kl:0.0175
+Epoch: 133, Validation: 0.7534, Test: 0.8152
+loss_ce:60.5650, loss_kl:0.0169
+Epoch: 134, Validation: 0.7562, Test: 0.8186
+loss_ce:58.8599, loss_kl:0.0168
+Epoch: 135, Validation: 0.7569, Test: 0.8194
+loss_ce:59.5301, loss_kl:0.0185
+Epoch: 136, Validation: 0.7581, Test: 0.8165
+loss_ce:58.6120, loss_kl:0.0172
+Epoch: 137, Validation: 0.7646, Test: 0.8214
+loss_ce:58.4407, loss_kl:0.0172
+Epoch: 138, Validation: 0.7638, Test: 0.8180
+loss_ce:58.0953, loss_kl:0.0161
+Epoch: 139, Validation: 0.7606, Test: 0.8215
+loss_ce:56.5889, loss_kl:0.0161
+Epoch: 140, Validation: 0.7631, Test: 0.8185
+loss_ce:56.1297, loss_kl:0.0150
+Epoch: 141, Validation: 0.7609, Test: 0.8187
+loss_ce:56.2389, loss_kl:0.0151
+Epoch: 142, Validation: 0.7648, Test: 0.8224
+loss_ce:55.3919, loss_kl:0.0153
+Epoch: 143, Validation: 0.7652, Test: 0.8190
+loss_ce:55.4269, loss_kl:0.0170
+Epoch: 144, Validation: 0.7694, Test: 0.8230
+loss_ce:54.8801, loss_kl:0.0161
+Epoch: 145, Validation: 0.7688, Test: 0.8243
+loss_ce:54.9619, loss_kl:0.0157
+Epoch: 146, Validation: 0.7665, Test: 0.8257
+loss_ce:53.5740, loss_kl:0.0155
+Epoch: 147, Validation: 0.7685, Test: 0.8232
+loss_ce:53.3461, loss_kl:0.0167
+Epoch: 148, Validation: 0.7691, Test: 0.8219
+loss_ce:52.4785, loss_kl:0.0151
+Epoch: 149, Validation: 0.7719, Test: 0.8266
+loss_ce:53.5925, loss_kl:0.0156
+Epoch: 150, Validation: 0.7694, Test: 0.8210
+loss_ce:51.8889, loss_kl:0.0151
+Epoch: 151, Validation: 0.7639, Test: 0.8221
+loss_ce:52.5159, loss_kl:0.0148
+Epoch: 152, Validation: 0.7675, Test: 0.8229
+loss_ce:49.9836, loss_kl:0.0152
+Epoch: 153, Validation: 0.7785, Test: 0.8258
+loss_ce:50.8495, loss_kl:0.0152
+Epoch: 154, Validation: 0.7705, Test: 0.8247
+loss_ce:49.9306, loss_kl:0.0144
+Epoch: 155, Validation: 0.7735, Test: 0.8231
+loss_ce:49.8138, loss_kl:0.0153
+Epoch: 156, Validation: 0.7707, Test: 0.8226
+loss_ce:49.8289, loss_kl:0.0145
+Epoch: 157, Validation: 0.7771, Test: 0.8255
+loss_ce:48.2458, loss_kl:0.0136
+Epoch: 158, Validation: 0.7732, Test: 0.8237
+loss_ce:48.7658, loss_kl:0.0134
+Epoch: 159, Validation: 0.7774, Test: 0.8278
+loss_ce:48.6294, loss_kl:0.0138
+Epoch: 160, Validation: 0.7733, Test: 0.8300
+loss_ce:47.6660, loss_kl:0.0147
+Epoch: 161, Validation: 0.7748, Test: 0.8259
+loss_ce:47.8052, loss_kl:0.0150
+Epoch: 162, Validation: 0.7765, Test: 0.8278
+loss_ce:47.5759, loss_kl:0.0145
+Epoch: 163, Validation: 0.7769, Test: 0.8269
+loss_ce:47.3102, loss_kl:0.0150
+Epoch: 164, Validation: 0.7770, Test: 0.8295
+loss_ce:47.0379, loss_kl:0.0131
+Epoch: 165, Validation: 0.7794, Test: 0.8296
+loss_ce:46.4435, loss_kl:0.0133
+Epoch: 166, Validation: 0.7793, Test: 0.8280
+loss_ce:46.6611, loss_kl:0.0134
+Epoch: 167, Validation: 0.7756, Test: 0.8275
+loss_ce:46.3954, loss_kl:0.0140
+Epoch: 168, Validation: 0.7813, Test: 0.8293
+loss_ce:44.9029, loss_kl:0.0133
+Epoch: 169, Validation: 0.7797, Test: 0.8297
+loss_ce:45.5370, loss_kl:0.0141
+Epoch: 170, Validation: 0.7802, Test: 0.8297
+loss_ce:44.0540, loss_kl:0.0131
+Epoch: 171, Validation: 0.7780, Test: 0.8266
+loss_ce:44.0822, loss_kl:0.0135
+Epoch: 172, Validation: 0.7804, Test: 0.8313
+loss_ce:44.2305, loss_kl:0.0137
+Epoch: 173, Validation: 0.7831, Test: 0.8316
+loss_ce:43.8082, loss_kl:0.0147
+Epoch: 174, Validation: 0.7788, Test: 0.8295
+loss_ce:43.7986, loss_kl:0.0127
+Epoch: 175, Validation: 0.7840, Test: 0.8305
+loss_ce:43.4885, loss_kl:0.0136
+Epoch: 176, Validation: 0.7870, Test: 0.8299
+loss_ce:43.0036, loss_kl:0.0125
+Epoch: 177, Validation: 0.7824, Test: 0.8321
+loss_ce:42.7822, loss_kl:0.0134
+Epoch: 178, Validation: 0.7798, Test: 0.8288
+loss_ce:42.8512, loss_kl:0.0134
+Epoch: 179, Validation: 0.7851, Test: 0.8318
+loss_ce:42.1502, loss_kl:0.0116
+Epoch: 180, Validation: 0.7823, Test: 0.8292
+loss_ce:41.8201, loss_kl:0.0131
+Epoch: 181, Validation: 0.7844, Test: 0.8309
+loss_ce:41.8135, loss_kl:0.0125
+Epoch: 182, Validation: 0.7844, Test: 0.8305
+loss_ce:41.2642, loss_kl:0.0126
+Epoch: 183, Validation: 0.7886, Test: 0.8316
+loss_ce:41.0422, loss_kl:0.0115
+Epoch: 184, Validation: 0.7856, Test: 0.8344
+loss_ce:42.0180, loss_kl:0.0129
+Epoch: 185, Validation: 0.7866, Test: 0.8332
+loss_ce:41.1180, loss_kl:0.0122
+Epoch: 186, Validation: 0.7912, Test: 0.8349
+loss_ce:41.2158, loss_kl:0.0122
+Epoch: 187, Validation: 0.7907, Test: 0.8340
+loss_ce:39.8889, loss_kl:0.0126
+Epoch: 188, Validation: 0.7896, Test: 0.8344
+loss_ce:39.9093, loss_kl:0.0129
+Epoch: 189, Validation: 0.7863, Test: 0.8334
+loss_ce:40.0843, loss_kl:0.0125
+Epoch: 190, Validation: 0.7907, Test: 0.8359
+loss_ce:39.5071, loss_kl:0.0117
+Epoch: 191, Validation: 0.7842, Test: 0.8307
+loss_ce:39.2850, loss_kl:0.0125
+Epoch: 192, Validation: 0.7918, Test: 0.8354
+loss_ce:39.4201, loss_kl:0.0115
+Epoch: 193, Validation: 0.7930, Test: 0.8351
+loss_ce:38.5985, loss_kl:0.0112
+Epoch: 194, Validation: 0.7902, Test: 0.8356
+loss_ce:38.2684, loss_kl:0.0114
+Epoch: 195, Validation: 0.7924, Test: 0.8394
+loss_ce:37.7070, loss_kl:0.0105
+Epoch: 196, Validation: 0.7936, Test: 0.8355
+loss_ce:38.3696, loss_kl:0.0109
+Epoch: 197, Validation: 0.7938, Test: 0.8381
+loss_ce:37.6861, loss_kl:0.0118
+Epoch: 198, Validation: 0.7926, Test: 0.8357
+loss_ce:38.5882, loss_kl:0.0114
+Epoch: 199, Validation: 0.7893, Test: 0.8381
+loss_ce:38.4305, loss_kl:0.0115
+Epoch: 200, Validation: 0.7918, Test: 0.8367
+loss_ce:36.8921, loss_kl:0.0102
+Epoch: 201, Validation: 0.7937, Test: 0.8403
+loss_ce:37.2224, loss_kl:0.0116
+Epoch: 202, Validation: 0.7950, Test: 0.8374
+loss_ce:37.2836, loss_kl:0.0117
+Epoch: 203, Validation: 0.7975, Test: 0.8380
+loss_ce:36.6318, loss_kl:0.0107
+Epoch: 204, Validation: 0.7950, Test: 0.8380
+loss_ce:35.9388, loss_kl:0.0107
+Epoch: 205, Validation: 0.7940, Test: 0.8374
+loss_ce:36.3715, loss_kl:0.0110
+Epoch: 206, Validation: 0.7937, Test: 0.8353
+loss_ce:36.0067, loss_kl:0.0107
+Epoch: 207, Validation: 0.7959, Test: 0.8390
+loss_ce:36.0442, loss_kl:0.0099
+Epoch: 208, Validation: 0.7930, Test: 0.8399
+loss_ce:36.2035, loss_kl:0.0108
+Epoch: 209, Validation: 0.7927, Test: 0.8373
+loss_ce:34.9149, loss_kl:0.0109
+Epoch: 210, Validation: 0.7955, Test: 0.8401
+loss_ce:35.4048, loss_kl:0.0099
+Epoch: 211, Validation: 0.7979, Test: 0.8406
+loss_ce:34.8277, loss_kl:0.0104
+Epoch: 212, Validation: 0.7961, Test: 0.8384
+loss_ce:35.0485, loss_kl:0.0116
+Epoch: 213, Validation: 0.7947, Test: 0.8390
+loss_ce:34.7185, loss_kl:0.0099
+Epoch: 214, Validation: 0.7983, Test: 0.8395
+loss_ce:34.7860, loss_kl:0.0099
+Epoch: 215, Validation: 0.7985, Test: 0.8379
+loss_ce:34.7354, loss_kl:0.0097
+Epoch: 216, Validation: 0.8041, Test: 0.8393
+loss_ce:33.2815, loss_kl:0.0106
+Epoch: 217, Validation: 0.7974, Test: 0.8365
+loss_ce:34.0321, loss_kl:0.0102
+Epoch: 218, Validation: 0.7957, Test: 0.8377
+loss_ce:34.0207, loss_kl:0.0099
+Epoch: 219, Validation: 0.7969, Test: 0.8401
+loss_ce:34.5869, loss_kl:0.0103
+Epoch: 220, Validation: 0.7958, Test: 0.8409
+loss_ce:33.8116, loss_kl:0.0099
+Epoch: 221, Validation: 0.8029, Test: 0.8398
+loss_ce:33.0549, loss_kl:0.0106
+Epoch: 222, Validation: 0.7998, Test: 0.8416
+loss_ce:33.5949, loss_kl:0.0095
+Epoch: 223, Validation: 0.8037, Test: 0.8400
+loss_ce:32.7632, loss_kl:0.0100
+Epoch: 224, Validation: 0.8014, Test: 0.8413
+loss_ce:32.8158, loss_kl:0.0097
+Epoch: 225, Validation: 0.7972, Test: 0.8394
+loss_ce:33.6646, loss_kl:0.0102
+Epoch: 226, Validation: 0.8016, Test: 0.8398
+loss_ce:32.8760, loss_kl:0.0089
+Epoch: 227, Validation: 0.7980, Test: 0.8394
+loss_ce:32.6792, loss_kl:0.0088
+Epoch: 228, Validation: 0.8007, Test: 0.8398
+loss_ce:32.0449, loss_kl:0.0103
+Epoch: 229, Validation: 0.8023, Test: 0.8424
+loss_ce:32.3146, loss_kl:0.0096
+Epoch: 230, Validation: 0.7998, Test: 0.8394
+loss_ce:32.0578, loss_kl:0.0097
+Epoch: 231, Validation: 0.8058, Test: 0.8438
+loss_ce:32.0002, loss_kl:0.0095
+Epoch: 232, Validation: 0.8034, Test: 0.8441
+loss_ce:31.6077, loss_kl:0.0094
+Epoch: 233, Validation: 0.8012, Test: 0.8420
+loss_ce:31.6749, loss_kl:0.0096
+Epoch: 234, Validation: 0.8047, Test: 0.8460
+loss_ce:31.6456, loss_kl:0.0092
+Epoch: 235, Validation: 0.8052, Test: 0.8451
+loss_ce:31.2572, loss_kl:0.0092
+Epoch: 236, Validation: 0.8026, Test: 0.8430
+loss_ce:31.7192, loss_kl:0.0094
+Epoch: 237, Validation: 0.8049, Test: 0.8448
+loss_ce:31.0195, loss_kl:0.0103
+Epoch: 238, Validation: 0.8003, Test: 0.8410
+loss_ce:30.5976, loss_kl:0.0092
+Epoch: 239, Validation: 0.8043, Test: 0.8457
+loss_ce:31.0947, loss_kl:0.0096
+Epoch: 240, Validation: 0.8038, Test: 0.8463
+loss_ce:30.8791, loss_kl:0.0094
+Epoch: 241, Validation: 0.8047, Test: 0.8427
+loss_ce:30.6146, loss_kl:0.0087
+Epoch: 242, Validation: 0.8041, Test: 0.8445
+loss_ce:30.7850, loss_kl:0.0083
+Epoch: 243, Validation: 0.8044, Test: 0.8440
+loss_ce:30.1490, loss_kl:0.0085
+Epoch: 244, Validation: 0.8020, Test: 0.8431
+loss_ce:29.9060, loss_kl:0.0090
+Epoch: 245, Validation: 0.8038, Test: 0.8429
+loss_ce:30.0982, loss_kl:0.0091
+Epoch: 246, Validation: 0.8065, Test: 0.8472
+loss_ce:29.7879, loss_kl:0.0082
+Epoch: 247, Validation: 0.8066, Test: 0.8492
+loss_ce:29.8536, loss_kl:0.0089
+Epoch: 248, Validation: 0.8066, Test: 0.8418
+loss_ce:29.5317, loss_kl:0.0083
+Epoch: 249, Validation: 0.8022, Test: 0.8442
+loss_ce:29.8423, loss_kl:0.0086
+Epoch: 250, Validation: 0.8075, Test: 0.8460
+loss_ce:29.4407, loss_kl:0.0087
+Epoch: 251, Validation: 0.8037, Test: 0.8444
+loss_ce:29.4310, loss_kl:0.0092
+Epoch: 252, Validation: 0.8085, Test: 0.8486
+loss_ce:30.2557, loss_kl:0.0090
+Epoch: 253, Validation: 0.8025, Test: 0.8439
+loss_ce:29.0724, loss_kl:0.0082
+Epoch: 254, Validation: 0.8091, Test: 0.8460
+loss_ce:29.0476, loss_kl:0.0077
+Epoch: 255, Validation: 0.8051, Test: 0.8473
+loss_ce:29.1842, loss_kl:0.0085
+Epoch: 256, Validation: 0.8048, Test: 0.8449
+loss_ce:28.5060, loss_kl:0.0080
+Epoch: 257, Validation: 0.8057, Test: 0.8463
+loss_ce:28.6942, loss_kl:0.0079
+Epoch: 258, Validation: 0.8066, Test: 0.8461
+loss_ce:29.3256, loss_kl:0.0079
+Epoch: 259, Validation: 0.8073, Test: 0.8441
+loss_ce:28.9091, loss_kl:0.0076
+Epoch: 260, Validation: 0.8062, Test: 0.8490
+loss_ce:28.4531, loss_kl:0.0082
+Epoch: 261, Validation: 0.8107, Test: 0.8458
+loss_ce:28.5514, loss_kl:0.0072
+Epoch: 262, Validation: 0.8083, Test: 0.8485
+loss_ce:27.3323, loss_kl:0.0082
+Epoch: 263, Validation: 0.8085, Test: 0.8484
+loss_ce:27.5343, loss_kl:0.0080
+Epoch: 264, Validation: 0.8104, Test: 0.8446
+loss_ce:27.6160, loss_kl:0.0082
+Epoch: 265, Validation: 0.8093, Test: 0.8477
+loss_ce:28.0831, loss_kl:0.0081
+Epoch: 266, Validation: 0.8080, Test: 0.8478
+loss_ce:27.6074, loss_kl:0.0076
+Epoch: 267, Validation: 0.8094, Test: 0.8484
+loss_ce:28.5221, loss_kl:0.0078
+Epoch: 268, Validation: 0.8103, Test: 0.8486
+loss_ce:27.0994, loss_kl:0.0068
+Epoch: 269, Validation: 0.8099, Test: 0.8481
+loss_ce:27.3118, loss_kl:0.0080
+Epoch: 270, Validation: 0.8093, Test: 0.8491
+loss_ce:27.2948, loss_kl:0.0068
+Epoch: 271, Validation: 0.8098, Test: 0.8483
+loss_ce:27.5213, loss_kl:0.0075
+Epoch: 272, Validation: 0.8132, Test: 0.8480
+loss_ce:28.3416, loss_kl:0.0075
+Epoch: 273, Validation: 0.8098, Test: 0.8492
+loss_ce:27.9879, loss_kl:0.0071
+Epoch: 274, Validation: 0.8122, Test: 0.8481
+loss_ce:26.4404, loss_kl:0.0072
+Epoch: 275, Validation: 0.8151, Test: 0.8484
+loss_ce:27.0017, loss_kl:0.0071
+Epoch: 276, Validation: 0.8085, Test: 0.8488
+loss_ce:26.9271, loss_kl:0.0077
+Epoch: 277, Validation: 0.8132, Test: 0.8480
+loss_ce:26.6790, loss_kl:0.0072
+Epoch: 278, Validation: 0.8123, Test: 0.8500
+loss_ce:26.6247, loss_kl:0.0070
+Epoch: 279, Validation: 0.8151, Test: 0.8501
+loss_ce:26.7907, loss_kl:0.0075
+Epoch: 280, Validation: 0.8155, Test: 0.8462
+loss_ce:26.8918, loss_kl:0.0073
+Epoch: 281, Validation: 0.8152, Test: 0.8471
+loss_ce:26.5757, loss_kl:0.0073
+Epoch: 282, Validation: 0.8157, Test: 0.8479
+loss_ce:26.6800, loss_kl:0.0070
+Epoch: 283, Validation: 0.8127, Test: 0.8458
+loss_ce:25.8315, loss_kl:0.0067
+Epoch: 284, Validation: 0.8162, Test: 0.8496
+loss_ce:25.8128, loss_kl:0.0070
+Epoch: 285, Validation: 0.8127, Test: 0.8486
+loss_ce:26.2688, loss_kl:0.0076
+Epoch: 286, Validation: 0.8159, Test: 0.8467
+loss_ce:26.0205, loss_kl:0.0072
+Epoch: 287, Validation: 0.8131, Test: 0.8503
+loss_ce:25.4786, loss_kl:0.0071
+Epoch: 288, Validation: 0.8125, Test: 0.8514
+loss_ce:25.7439, loss_kl:0.0063
+Epoch: 289, Validation: 0.8077, Test: 0.8495
+loss_ce:25.1245, loss_kl:0.0068
+Epoch: 290, Validation: 0.8134, Test: 0.8492
+loss_ce:25.9694, loss_kl:0.0066
+Epoch: 291, Validation: 0.8117, Test: 0.8491
+loss_ce:25.2842, loss_kl:0.0071
+Epoch: 292, Validation: 0.8161, Test: 0.8512
+loss_ce:25.3385, loss_kl:0.0071
+Epoch: 293, Validation: 0.8154, Test: 0.8491
+loss_ce:25.9323, loss_kl:0.0067
+Epoch: 294, Validation: 0.8112, Test: 0.8489
+loss_ce:25.2578, loss_kl:0.0064
+Epoch: 295, Validation: 0.8131, Test: 0.8500
+loss_ce:24.9306, loss_kl:0.0072
+Epoch: 296, Validation: 0.8146, Test: 0.8509
+loss_ce:24.8891, loss_kl:0.0066
+Epoch: 297, Validation: 0.8183, Test: 0.8524
+loss_ce:25.0319, loss_kl:0.0064
+Epoch: 298, Validation: 0.8164, Test: 0.8520
+loss_ce:24.9557, loss_kl:0.0066
+Epoch: 299, Validation: 0.8137, Test: 0.8486
+loss_ce:24.3562, loss_kl:0.0066
+Epoch: 300, Validation: 0.8157, Test: 0.8476
+loss_ce:23.9310, loss_kl:0.0062
+Epoch: 301, Validation: 0.8152, Test: 0.8494
+loss_ce:23.5199, loss_kl:0.0067
+Epoch: 302, Validation: 0.8131, Test: 0.8485
+loss_ce:23.7219, loss_kl:0.0060
+Epoch: 303, Validation: 0.8167, Test: 0.8491
+loss_ce:23.3087, loss_kl:0.0064
+Epoch: 304, Validation: 0.8166, Test: 0.8494
+loss_ce:22.9609, loss_kl:0.0061
+Epoch: 305, Validation: 0.8161, Test: 0.8520
+loss_ce:23.1163, loss_kl:0.0065
+Epoch: 306, Validation: 0.8163, Test: 0.8510
+loss_ce:22.8552, loss_kl:0.0065
+Epoch: 307, Validation: 0.8174, Test: 0.8512
+loss_ce:22.6514, loss_kl:0.0069
+Epoch: 308, Validation: 0.8159, Test: 0.8504
+loss_ce:22.8568, loss_kl:0.0062
+Epoch: 309, Validation: 0.8151, Test: 0.8480
+loss_ce:22.7771, loss_kl:0.0064
+Epoch: 310, Validation: 0.8177, Test: 0.8504
+loss_ce:22.7485, loss_kl:0.0069
+Epoch: 311, Validation: 0.8166, Test: 0.8511
+loss_ce:22.6767, loss_kl:0.0062
+Epoch: 312, Validation: 0.8171, Test: 0.8523
+loss_ce:22.4308, loss_kl:0.0063
+Epoch: 313, Validation: 0.8169, Test: 0.8511
+loss_ce:22.7607, loss_kl:0.0066
+Epoch: 314, Validation: 0.8161, Test: 0.8513
+loss_ce:22.9920, loss_kl:0.0066
+Epoch: 315, Validation: 0.8166, Test: 0.8501
+loss_ce:22.6137, loss_kl:0.0064
+Epoch: 316, Validation: 0.8180, Test: 0.8507
+loss_ce:22.9019, loss_kl:0.0063
+Epoch: 317, Validation: 0.8172, Test: 0.8500
+loss_ce:22.8092, loss_kl:0.0061
+Epoch: 318, Validation: 0.8195, Test: 0.8518
+loss_ce:22.3711, loss_kl:0.0063
+Epoch: 319, Validation: 0.8170, Test: 0.8510
+loss_ce:22.6184, loss_kl:0.0056
+Epoch: 320, Validation: 0.8180, Test: 0.8504
+loss_ce:22.3333, loss_kl:0.0063
+Epoch: 321, Validation: 0.8166, Test: 0.8502
+loss_ce:22.7620, loss_kl:0.0065
+Epoch: 322, Validation: 0.8184, Test: 0.8504
+loss_ce:22.3401, loss_kl:0.0063
+Epoch: 323, Validation: 0.8172, Test: 0.8515
+loss_ce:22.3587, loss_kl:0.0067
+Epoch: 324, Validation: 0.8168, Test: 0.8518
+loss_ce:22.5614, loss_kl:0.0063
+Epoch: 325, Validation: 0.8172, Test: 0.8521
+loss_ce:22.3056, loss_kl:0.0062
+Epoch: 326, Validation: 0.8152, Test: 0.8509
+loss_ce:22.6901, loss_kl:0.0066
+Epoch: 327, Validation: 0.8157, Test: 0.8524
+loss_ce:22.6719, loss_kl:0.0062
+Epoch: 328, Validation: 0.8182, Test: 0.8519
+loss_ce:22.5158, loss_kl:0.0061
+Epoch: 329, Validation: 0.8163, Test: 0.8511
+loss_ce:22.2508, loss_kl:0.0064
+Epoch: 330, Validation: 0.8167, Test: 0.8508
+loss_ce:22.1979, loss_kl:0.0061
+Epoch: 331, Validation: 0.8190, Test: 0.8503
+loss_ce:22.2889, loss_kl:0.0062
+Epoch: 332, Validation: 0.8172, Test: 0.8525
+loss_ce:22.2583, loss_kl:0.0065
+Epoch: 333, Validation: 0.8146, Test: 0.8502
+loss_ce:22.4239, loss_kl:0.0061
+Epoch: 334, Validation: 0.8168, Test: 0.8525
+loss_ce:22.6941, loss_kl:0.0067
+Epoch: 335, Validation: 0.8156, Test: 0.8509
+loss_ce:22.4751, loss_kl:0.0063
+Epoch: 336, Validation: 0.8162, Test: 0.8515
+loss_ce:22.3562, loss_kl:0.0067
+Epoch: 337, Validation: 0.8161, Test: 0.8507
+loss_ce:22.6362, loss_kl:0.0062
+Epoch: 338, Validation: 0.8167, Test: 0.8527
+loss_ce:22.1629, loss_kl:0.0061
+Epoch: 339, Validation: 0.8168, Test: 0.8520
+loss_ce:22.1941, loss_kl:0.0068
+Epoch: 340, Validation: 0.8172, Test: 0.8517
+loss_ce:22.2412, loss_kl:0.0065
+Epoch: 341, Validation: 0.8165, Test: 0.8501
+loss_ce:22.2202, loss_kl:0.0070
+Epoch: 342, Validation: 0.8182, Test: 0.8528
+loss_ce:22.0086, loss_kl:0.0066
+Epoch: 343, Validation: 0.8182, Test: 0.8530
+loss_ce:22.3655, loss_kl:0.0062
+Epoch: 344, Validation: 0.8182, Test: 0.8520
+loss_ce:22.2142, loss_kl:0.0066
+Epoch: 345, Validation: 0.8198, Test: 0.8517
+loss_ce:22.3330, loss_kl:0.0062
+Epoch: 346, Validation: 0.8176, Test: 0.8510
+loss_ce:22.2740, loss_kl:0.0065
+Epoch: 347, Validation: 0.8188, Test: 0.8515
+loss_ce:22.2928, loss_kl:0.0068
+Epoch: 348, Validation: 0.8171, Test: 0.8500
+loss_ce:22.3362, loss_kl:0.0067
+Epoch: 349, Validation: 0.8185, Test: 0.8521
+loss_ce:22.0308, loss_kl:0.0057
+Epoch: 350, Validation: 0.8172, Test: 0.8510
+loss_ce:22.3070, loss_kl:0.0061
+Epoch: 351, Validation: 0.8184, Test: 0.8520
+loss_ce:22.2321, loss_kl:0.0056
+Epoch: 352, Validation: 0.8182, Test: 0.8515
+loss_ce:22.2317, loss_kl:0.0063
+Epoch: 353, Validation: 0.8190, Test: 0.8519
+loss_ce:21.9946, loss_kl:0.0065
+Epoch: 354, Validation: 0.8182, Test: 0.8520
+loss_ce:22.4121, loss_kl:0.0067
+Epoch: 355, Validation: 0.8179, Test: 0.8512
+loss_ce:22.0055, loss_kl:0.0063
+Epoch: 356, Validation: 0.8174, Test: 0.8520
+loss_ce:22.2668, loss_kl:0.0059
+Epoch: 357, Validation: 0.8179, Test: 0.8531
+loss_ce:21.8084, loss_kl:0.0065
+Epoch: 358, Validation: 0.8200, Test: 0.8522
+loss_ce:22.1195, loss_kl:0.0067
+Epoch: 359, Validation: 0.8195, Test: 0.8530
+loss_ce:22.0408, loss_kl:0.0061
+Epoch: 360, Validation: 0.8185, Test: 0.8510
+loss_ce:21.8495, loss_kl:0.0061
+Epoch: 361, Validation: 0.8167, Test: 0.8513
+loss_ce:22.0410, loss_kl:0.0068
+Epoch: 362, Validation: 0.8195, Test: 0.8518
+loss_ce:22.2414, loss_kl:0.0060
+Epoch: 363, Validation: 0.8163, Test: 0.8513
+loss_ce:22.1774, loss_kl:0.0057
+Epoch: 364, Validation: 0.8188, Test: 0.8525
+loss_ce:21.9166, loss_kl:0.0061
+Epoch: 365, Validation: 0.8184, Test: 0.8515
+loss_ce:22.1848, loss_kl:0.0063
+Epoch: 366, Validation: 0.8198, Test: 0.8511
+loss_ce:21.9900, loss_kl:0.0065
+Epoch: 367, Validation: 0.8179, Test: 0.8500
+loss_ce:22.3920, loss_kl:0.0066
+Epoch: 368, Validation: 0.8205, Test: 0.8519
+loss_ce:22.1209, loss_kl:0.0065
+Epoch: 369, Validation: 0.8181, Test: 0.8507
+loss_ce:22.0093, loss_kl:0.0059
+Epoch: 370, Validation: 0.8189, Test: 0.8517
+loss_ce:21.8255, loss_kl:0.0066
+Epoch: 371, Validation: 0.8186, Test: 0.8523
+loss_ce:21.9979, loss_kl:0.0058
+Epoch: 372, Validation: 0.8182, Test: 0.8518
+loss_ce:22.1332, loss_kl:0.0060
+Epoch: 373, Validation: 0.8172, Test: 0.8524
+loss_ce:21.6498, loss_kl:0.0067
+Epoch: 374, Validation: 0.8181, Test: 0.8534
+loss_ce:22.3352, loss_kl:0.0067
+Epoch: 375, Validation: 0.8186, Test: 0.8521
+loss_ce:22.1435, loss_kl:0.0059
+Epoch: 376, Validation: 0.8199, Test: 0.8519
+loss_ce:21.8946, loss_kl:0.0061
+Epoch: 377, Validation: 0.8180, Test: 0.8529
+loss_ce:22.1898, loss_kl:0.0060
+Epoch: 378, Validation: 0.8168, Test: 0.8513
+loss_ce:21.8941, loss_kl:0.0060
+Epoch: 379, Validation: 0.8188, Test: 0.8527
+loss_ce:22.0934, loss_kl:0.0062
+Epoch: 380, Validation: 0.8177, Test: 0.8523
+loss_ce:21.9441, loss_kl:0.0062
+Epoch: 381, Validation: 0.8197, Test: 0.8514
+loss_ce:21.9410, loss_kl:0.0067
+Epoch: 382, Validation: 0.8194, Test: 0.8529
+loss_ce:21.9185, loss_kl:0.0059
+Epoch: 383, Validation: 0.8183, Test: 0.8528
+loss_ce:21.9005, loss_kl:0.0064
+Epoch: 384, Validation: 0.8196, Test: 0.8533
+loss_ce:22.0595, loss_kl:0.0059
+Epoch: 385, Validation: 0.8198, Test: 0.8530
+loss_ce:21.8013, loss_kl:0.0068
+Epoch: 386, Validation: 0.8192, Test: 0.8529
+loss_ce:21.7072, loss_kl:0.0059
+Epoch: 387, Validation: 0.8200, Test: 0.8526
+loss_ce:21.9902, loss_kl:0.0062
+Epoch: 388, Validation: 0.8190, Test: 0.8510
+loss_ce:21.8907, loss_kl:0.0062
+Epoch: 389, Validation: 0.8171, Test: 0.8528
+loss_ce:21.8672, loss_kl:0.0059
+Epoch: 390, Validation: 0.8198, Test: 0.8521
+loss_ce:22.1731, loss_kl:0.0063
+Epoch: 391, Validation: 0.8201, Test: 0.8529
+loss_ce:21.9356, loss_kl:0.0061
+Epoch: 392, Validation: 0.8202, Test: 0.8519
+loss_ce:21.8034, loss_kl:0.0058
+Epoch: 393, Validation: 0.8209, Test: 0.8532
+loss_ce:21.6055, loss_kl:0.0065
+Epoch: 394, Validation: 0.8166, Test: 0.8506
+loss_ce:21.6202, loss_kl:0.0063
+Epoch: 395, Validation: 0.8186, Test: 0.8512
+loss_ce:21.7660, loss_kl:0.0061
+Epoch: 396, Validation: 0.8171, Test: 0.8517
+loss_ce:21.6355, loss_kl:0.0061
+Epoch: 397, Validation: 0.8194, Test: 0.8523
+loss_ce:21.9802, loss_kl:0.0065
+Epoch: 398, Validation: 0.8202, Test: 0.8520
+loss_ce:21.6066, loss_kl:0.0058
+Epoch: 399, Validation: 0.8171, Test: 0.8513
+loss_ce:22.1400, loss_kl:0.0063
+Epoch: 400, Validation: 0.8196, Test: 0.8528
+loss_ce:22.0840, loss_kl:0.0064
+Epoch: 401, Validation: 0.8192, Test: 0.8522
+loss_ce:21.7572, loss_kl:0.0063
+Epoch: 402, Validation: 0.8205, Test: 0.8517
+loss_ce:22.0450, loss_kl:0.0061
+Epoch: 403, Validation: 0.8190, Test: 0.8504
+loss_ce:21.9539, loss_kl:0.0060
+Epoch: 404, Validation: 0.8199, Test: 0.8529
+loss_ce:21.6200, loss_kl:0.0063
+Epoch: 405, Validation: 0.8200, Test: 0.8529
+loss_ce:21.5808, loss_kl:0.0064
+Epoch: 406, Validation: 0.8186, Test: 0.8502
+loss_ce:21.5669, loss_kl:0.0057
+Epoch: 407, Validation: 0.8208, Test: 0.8546
+loss_ce:21.6309, loss_kl:0.0057
+Epoch: 408, Validation: 0.8189, Test: 0.8522
+loss_ce:21.6637, loss_kl:0.0060
+Epoch: 409, Validation: 0.8195, Test: 0.8519
+loss_ce:21.6800, loss_kl:0.0062
+Epoch: 410, Validation: 0.8220, Test: 0.8536
+loss_ce:21.7331, loss_kl:0.0061
+Epoch: 411, Validation: 0.8198, Test: 0.8517
+loss_ce:21.6063, loss_kl:0.0061
+Epoch: 412, Validation: 0.8181, Test: 0.8514
+loss_ce:21.6826, loss_kl:0.0058
+Epoch: 413, Validation: 0.8212, Test: 0.8530
+loss_ce:21.6892, loss_kl:0.0059
+Epoch: 414, Validation: 0.8201, Test: 0.8514
+loss_ce:21.6766, loss_kl:0.0058
+Epoch: 415, Validation: 0.8196, Test: 0.8527
+loss_ce:21.5256, loss_kl:0.0070
+Epoch: 416, Validation: 0.8210, Test: 0.8512
+loss_ce:21.5515, loss_kl:0.0055
+Epoch: 417, Validation: 0.8194, Test: 0.8529
+loss_ce:21.9055, loss_kl:0.0059
+Epoch: 418, Validation: 0.8210, Test: 0.8536
+loss_ce:21.6814, loss_kl:0.0057
+Epoch: 419, Validation: 0.8192, Test: 0.8518
+loss_ce:21.6177, loss_kl:0.0061
+Epoch: 420, Validation: 0.8194, Test: 0.8523
+loss_ce:21.7987, loss_kl:0.0058
+Epoch: 421, Validation: 0.8202, Test: 0.8525
+loss_ce:21.6983, loss_kl:0.0055
+Epoch: 422, Validation: 0.8187, Test: 0.8516
+loss_ce:21.8419, loss_kl:0.0060
+Epoch: 423, Validation: 0.8181, Test: 0.8501
+loss_ce:21.6861, loss_kl:0.0061
+Epoch: 424, Validation: 0.8190, Test: 0.8530
+loss_ce:21.6526, loss_kl:0.0060
+Epoch: 425, Validation: 0.8189, Test: 0.8519
+loss_ce:21.6423, loss_kl:0.0063
+Epoch: 426, Validation: 0.8198, Test: 0.8510
+loss_ce:21.6099, loss_kl:0.0058
+Epoch: 427, Validation: 0.8187, Test: 0.8508
+loss_ce:22.0695, loss_kl:0.0058
+Epoch: 428, Validation: 0.8186, Test: 0.8523
+loss_ce:21.6257, loss_kl:0.0061
+Epoch: 429, Validation: 0.8185, Test: 0.8510
+loss_ce:21.3926, loss_kl:0.0064
+Epoch: 430, Validation: 0.8205, Test: 0.8510
+loss_ce:22.0109, loss_kl:0.0057
+Epoch: 431, Validation: 0.8186, Test: 0.8534
+loss_ce:21.5067, loss_kl:0.0063
+Epoch: 432, Validation: 0.8191, Test: 0.8523
+loss_ce:21.2589, loss_kl:0.0057
+Epoch: 433, Validation: 0.8193, Test: 0.8530
+loss_ce:21.5991, loss_kl:0.0062
+Epoch: 434, Validation: 0.8190, Test: 0.8526
+loss_ce:21.5928, loss_kl:0.0060
+Epoch: 435, Validation: 0.8191, Test: 0.8535
+loss_ce:21.9277, loss_kl:0.0063
+Epoch: 436, Validation: 0.8194, Test: 0.8512
+loss_ce:21.8731, loss_kl:0.0062
+Epoch: 437, Validation: 0.8182, Test: 0.8534
+loss_ce:21.6111, loss_kl:0.0071
+Epoch: 438, Validation: 0.8185, Test: 0.8527
+loss_ce:21.6174, loss_kl:0.0057
+Epoch: 439, Validation: 0.8192, Test: 0.8532
+loss_ce:21.3859, loss_kl:0.0066
+Epoch: 440, Validation: 0.8203, Test: 0.8510
+loss_ce:21.4663, loss_kl:0.0060
+Epoch: 441, Validation: 0.8190, Test: 0.8523
+loss_ce:21.5956, loss_kl:0.0064
+Epoch: 442, Validation: 0.8190, Test: 0.8516
+loss_ce:21.4792, loss_kl:0.0062
+Epoch: 443, Validation: 0.8193, Test: 0.8525
+loss_ce:21.6154, loss_kl:0.0065
+Epoch: 444, Validation: 0.8205, Test: 0.8532
+loss_ce:21.8893, loss_kl:0.0063
+Epoch: 445, Validation: 0.8210, Test: 0.8516
+loss_ce:21.4953, loss_kl:0.0060
+Epoch: 446, Validation: 0.8202, Test: 0.8525
+loss_ce:21.4915, loss_kl:0.0059
+Epoch: 447, Validation: 0.8192, Test: 0.8536
+loss_ce:21.8295, loss_kl:0.0056
+Epoch: 448, Validation: 0.8181, Test: 0.8525
+loss_ce:21.8625, loss_kl:0.0060
+Epoch: 449, Validation: 0.8194, Test: 0.8516
+loss_ce:21.8315, loss_kl:0.0061
+Epoch: 450, Validation: 0.8203, Test: 0.8529
+loss_ce:21.5786, loss_kl:0.0059
+Epoch: 451, Validation: 0.8202, Test: 0.8520
+loss_ce:21.4400, loss_kl:0.0060
+Epoch: 452, Validation: 0.8218, Test: 0.8525
+loss_ce:21.5209, loss_kl:0.0063
+Epoch: 453, Validation: 0.8202, Test: 0.8536
+loss_ce:21.7485, loss_kl:0.0060
+Epoch: 454, Validation: 0.8211, Test: 0.8538
+loss_ce:21.3712, loss_kl:0.0057
+Epoch: 455, Validation: 0.8204, Test: 0.8518
+loss_ce:21.5050, loss_kl:0.0059
+Epoch: 456, Validation: 0.8193, Test: 0.8514
+loss_ce:21.5590, loss_kl:0.0059
+Epoch: 457, Validation: 0.8202, Test: 0.8511
+loss_ce:21.6154, loss_kl:0.0061
+Epoch: 458, Validation: 0.8207, Test: 0.8532
+loss_ce:21.8730, loss_kl:0.0056
+Epoch: 459, Validation: 0.8185, Test: 0.8518
+loss_ce:21.6866, loss_kl:0.0057
+Epoch: 460, Validation: 0.8200, Test: 0.8534
+loss_ce:21.6985, loss_kl:0.0058
+Epoch: 461, Validation: 0.8178, Test: 0.8516
+loss_ce:21.6371, loss_kl:0.0065
+Epoch: 462, Validation: 0.8196, Test: 0.8512
+loss_ce:21.3034, loss_kl:0.0064
+Epoch: 463, Validation: 0.8187, Test: 0.8505
+loss_ce:21.7032, loss_kl:0.0058
+Epoch: 464, Validation: 0.8179, Test: 0.8519
+loss_ce:21.3375, loss_kl:0.0060
+Epoch: 465, Validation: 0.8197, Test: 0.8524
+loss_ce:21.6543, loss_kl:0.0058
+Epoch: 466, Validation: 0.8190, Test: 0.8520
+loss_ce:21.6540, loss_kl:0.0060
+Epoch: 467, Validation: 0.8198, Test: 0.8524
+loss_ce:21.4317, loss_kl:0.0061
+Epoch: 468, Validation: 0.8183, Test: 0.8518
+loss_ce:21.6506, loss_kl:0.0064
+Epoch: 469, Validation: 0.8206, Test: 0.8534
+loss_ce:21.5777, loss_kl:0.0061
+Epoch: 470, Validation: 0.8194, Test: 0.8529
+loss_ce:21.5306, loss_kl:0.0059
+Epoch: 471, Validation: 0.8202, Test: 0.8530
+loss_ce:21.3852, loss_kl:0.0063
+Epoch: 472, Validation: 0.8207, Test: 0.8531
+loss_ce:21.5076, loss_kl:0.0061
+Epoch: 473, Validation: 0.8211, Test: 0.8521
+loss_ce:21.5466, loss_kl:0.0059
+Epoch: 474, Validation: 0.8197, Test: 0.8521
+loss_ce:21.5701, loss_kl:0.0056
+Epoch: 475, Validation: 0.8169, Test: 0.8510
+loss_ce:21.6180, loss_kl:0.0060
+Epoch: 476, Validation: 0.8189, Test: 0.8524
+loss_ce:21.5722, loss_kl:0.0067
+Epoch: 477, Validation: 0.8207, Test: 0.8518
+loss_ce:21.4713, loss_kl:0.0055
+Epoch: 478, Validation: 0.8177, Test: 0.8526
+loss_ce:21.4745, loss_kl:0.0062
+Epoch: 479, Validation: 0.8208, Test: 0.8519
+loss_ce:21.5572, loss_kl:0.0054
+Epoch: 480, Validation: 0.8206, Test: 0.8519
+loss_ce:21.5454, loss_kl:0.0059
+Epoch: 481, Validation: 0.8199, Test: 0.8531
+loss_ce:21.4564, loss_kl:0.0058
+Epoch: 482, Validation: 0.8223, Test: 0.8519
+loss_ce:21.7066, loss_kl:0.0059
+Epoch: 483, Validation: 0.8215, Test: 0.8516
+loss_ce:21.4823, loss_kl:0.0060
+Epoch: 484, Validation: 0.8200, Test: 0.8523
+loss_ce:21.4866, loss_kl:0.0064
+Epoch: 485, Validation: 0.8203, Test: 0.8529
+loss_ce:21.5308, loss_kl:0.0058
+Epoch: 486, Validation: 0.8191, Test: 0.8519
+loss_ce:21.4475, loss_kl:0.0054
+Epoch: 487, Validation: 0.8189, Test: 0.8532
+loss_ce:21.8531, loss_kl:0.0059
+Epoch: 488, Validation: 0.8216, Test: 0.8526
+loss_ce:21.5216, loss_kl:0.0059
+Epoch: 489, Validation: 0.8181, Test: 0.8519
+loss_ce:21.4426, loss_kl:0.0063
+Epoch: 490, Validation: 0.8183, Test: 0.8511
+loss_ce:21.3161, loss_kl:0.0054
+Epoch: 491, Validation: 0.8211, Test: 0.8531
+loss_ce:21.1345, loss_kl:0.0058
+Epoch: 492, Validation: 0.8170, Test: 0.8500
+loss_ce:21.5889, loss_kl:0.0058
+Epoch: 493, Validation: 0.8198, Test: 0.8528
+loss_ce:21.5247, loss_kl:0.0062
+Epoch: 494, Validation: 0.8199, Test: 0.8523
+loss_ce:21.8679, loss_kl:0.0061
+Epoch: 495, Validation: 0.8200, Test: 0.8516
+loss_ce:21.5878, loss_kl:0.0061
+Epoch: 496, Validation: 0.8193, Test: 0.8513
+loss_ce:21.2019, loss_kl:0.0059
+Epoch: 497, Validation: 0.8199, Test: 0.8524
+loss_ce:21.6706, loss_kl:0.0060
+Epoch: 498, Validation: 0.8197, Test: 0.8523
+loss_ce:21.5435, loss_kl:0.0062
+Epoch: 499, Validation: 0.8183, Test: 0.8520
+loss_ce:21.5571, loss_kl:0.0060
+Epoch: 500, Validation: 0.8177, Test: 0.8512
+Best: 482, Validation: 0.8223, Test: 0.8546, Valided Test: 0.8519

@@ -1,0 +1,804 @@
+nohup: ignoring input
+torch version:  1.13.0+cu117
+torchvision version:  0.14.0+cu117
+loss_ce:7797.3286, loss_kl:0.0200
+Epoch: 001, Validation: 0.0924, Fold: 0.1379, Family: 0.2980, Super: 0.1100
+loss_ce:5810.4775, loss_kl:0.0187
+Epoch: 002, Validation: 0.1726, Fold: 0.1992, Family: 0.5425, Super: 0.1986
+loss_ce:4715.3311, loss_kl:0.0330
+Epoch: 003, Validation: 0.2690, Fold: 0.2799, Family: 0.6730, Super: 0.3150
+loss_ce:3937.6455, loss_kl:0.0163
+Epoch: 004, Validation: 0.3261, Fold: 0.3120, Family: 0.7673, Super: 0.3692
+loss_ce:3353.0432, loss_kl:0.0300
+Epoch: 005, Validation: 0.3587, Fold: 0.3747, Family: 0.7893, Super: 0.3852
+loss_ce:2920.2288, loss_kl:0.0161
+Epoch: 006, Validation: 0.4171, Fold: 0.4164, Family: 0.8813, Super: 0.4498
+loss_ce:2527.7007, loss_kl:0.0218
+Epoch: 007, Validation: 0.4443, Fold: 0.3955, Family: 0.9002, Super: 0.4809
+loss_ce:2235.3430, loss_kl:0.0147
+Epoch: 008, Validation: 0.4742, Fold: 0.4206, Family: 0.9269, Super: 0.4984
+loss_ce:1965.4199, loss_kl:0.0164
+Epoch: 009, Validation: 0.4742, Fold: 0.4304, Family: 0.9190, Super: 0.5239
+loss_ce:1740.7759, loss_kl:0.0150
+Epoch: 010, Validation: 0.4918, Fold: 0.4220, Family: 0.9505, Super: 0.5526
+loss_ce:1555.8882, loss_kl:0.0160
+Epoch: 011, Validation: 0.5380, Fold: 0.4596, Family: 0.9631, Super: 0.5726
+loss_ce:1402.6178, loss_kl:0.0167
+Epoch: 012, Validation: 0.5380, Fold: 0.4526, Family: 0.9646, Super: 0.5957
+loss_ce:1250.1039, loss_kl:0.0164
+Epoch: 013, Validation: 0.5435, Fold: 0.4331, Family: 0.9717, Super: 0.5973
+loss_ce:1127.1831, loss_kl:0.0194
+Epoch: 014, Validation: 0.5666, Fold: 0.4763, Family: 0.9709, Super: 0.6172
+loss_ce:1004.1484, loss_kl:0.0183
+Epoch: 015, Validation: 0.5611, Fold: 0.4694, Family: 0.9748, Super: 0.6156
+loss_ce:906.7415, loss_kl:0.0150
+Epoch: 016, Validation: 0.5707, Fold: 0.4916, Family: 0.9756, Super: 0.6132
+loss_ce:813.1237, loss_kl:0.0138
+Epoch: 017, Validation: 0.5761, Fold: 0.5028, Family: 0.9772, Super: 0.6300
+loss_ce:734.2244, loss_kl:0.0149
+Epoch: 018, Validation: 0.5842, Fold: 0.4680, Family: 0.9748, Super: 0.6172
+loss_ce:670.1243, loss_kl:0.0155
+Epoch: 019, Validation: 0.6114, Fold: 0.4805, Family: 0.9827, Super: 0.6507
+loss_ce:603.1328, loss_kl:0.0135
+Epoch: 020, Validation: 0.5856, Fold: 0.4819, Family: 0.9843, Super: 0.6451
+loss_ce:538.4434, loss_kl:0.0143
+Epoch: 021, Validation: 0.5910, Fold: 0.4861, Family: 0.9851, Super: 0.6483
+loss_ce:498.6526, loss_kl:0.0129
+Epoch: 022, Validation: 0.5897, Fold: 0.4666, Family: 0.9858, Super: 0.6579
+loss_ce:442.9758, loss_kl:0.0172
+Epoch: 023, Validation: 0.6060, Fold: 0.4903, Family: 0.9843, Super: 0.6675
+loss_ce:408.5342, loss_kl:0.0143
+Epoch: 024, Validation: 0.6073, Fold: 0.4916, Family: 0.9874, Super: 0.6659
+loss_ce:366.9864, loss_kl:0.0138
+Epoch: 025, Validation: 0.6087, Fold: 0.5056, Family: 0.9819, Super: 0.6722
+loss_ce:341.1174, loss_kl:0.0158
+Epoch: 026, Validation: 0.6223, Fold: 0.5125, Family: 0.9890, Super: 0.6818
+loss_ce:309.3015, loss_kl:0.0127
+Epoch: 027, Validation: 0.6141, Fold: 0.5111, Family: 0.9874, Super: 0.6978
+loss_ce:289.0432, loss_kl:0.0158
+Epoch: 028, Validation: 0.6168, Fold: 0.5070, Family: 0.9866, Super: 0.6882
+loss_ce:257.2485, loss_kl:0.0167
+Epoch: 029, Validation: 0.6182, Fold: 0.4875, Family: 0.9866, Super: 0.6794
+loss_ce:234.2221, loss_kl:0.0153
+Epoch: 030, Validation: 0.6236, Fold: 0.5000, Family: 0.9866, Super: 0.6906
+loss_ce:223.0090, loss_kl:0.0202
+Epoch: 031, Validation: 0.6318, Fold: 0.5167, Family: 0.9890, Super: 0.6898
+loss_ce:206.3998, loss_kl:0.0127
+Epoch: 032, Validation: 0.6332, Fold: 0.5056, Family: 0.9858, Super: 0.6882
+loss_ce:192.3567, loss_kl:0.0149
+Epoch: 033, Validation: 0.6128, Fold: 0.5111, Family: 0.9882, Super: 0.6810
+loss_ce:176.6223, loss_kl:0.0154
+Epoch: 034, Validation: 0.6399, Fold: 0.4972, Family: 0.9890, Super: 0.7049
+loss_ce:177.0724, loss_kl:0.0149
+Epoch: 035, Validation: 0.6332, Fold: 0.5209, Family: 0.9906, Super: 0.6922
+loss_ce:158.5882, loss_kl:0.0148
+Epoch: 036, Validation: 0.6427, Fold: 0.4958, Family: 0.9874, Super: 0.6994
+loss_ce:155.1482, loss_kl:0.0131
+Epoch: 037, Validation: 0.6372, Fold: 0.4805, Family: 0.9898, Super: 0.6914
+loss_ce:145.3395, loss_kl:0.0142
+Epoch: 038, Validation: 0.6386, Fold: 0.5042, Family: 0.9921, Super: 0.7018
+loss_ce:138.4460, loss_kl:0.0140
+Epoch: 039, Validation: 0.6332, Fold: 0.5070, Family: 0.9874, Super: 0.6962
+loss_ce:134.7983, loss_kl:0.0150
+Epoch: 040, Validation: 0.6372, Fold: 0.4958, Family: 0.9921, Super: 0.7089
+loss_ce:125.2220, loss_kl:0.0128
+Epoch: 041, Validation: 0.6386, Fold: 0.5028, Family: 0.9898, Super: 0.7018
+loss_ce:123.0206, loss_kl:0.0207
+Epoch: 042, Validation: 0.6508, Fold: 0.5084, Family: 0.9898, Super: 0.7065
+loss_ce:123.2897, loss_kl:0.0196
+Epoch: 043, Validation: 0.6386, Fold: 0.5000, Family: 0.9890, Super: 0.6930
+loss_ce:118.3099, loss_kl:0.0162
+Epoch: 044, Validation: 0.6603, Fold: 0.4972, Family: 0.9937, Super: 0.7033
+loss_ce:112.4617, loss_kl:0.0143
+Epoch: 045, Validation: 0.6427, Fold: 0.5097, Family: 0.9906, Super: 0.7137
+loss_ce:111.8438, loss_kl:0.0147
+Epoch: 046, Validation: 0.6386, Fold: 0.4861, Family: 0.9906, Super: 0.7081
+loss_ce:108.2684, loss_kl:0.0201
+Epoch: 047, Validation: 0.6495, Fold: 0.4889, Family: 0.9906, Super: 0.7033
+loss_ce:104.4359, loss_kl:0.0138
+Epoch: 048, Validation: 0.6576, Fold: 0.5042, Family: 0.9945, Super: 0.7153
+loss_ce:105.8809, loss_kl:0.0148
+Epoch: 049, Validation: 0.6318, Fold: 0.4944, Family: 0.9906, Super: 0.7129
+loss_ce:100.3652, loss_kl:0.0143
+Epoch: 050, Validation: 0.6440, Fold: 0.5237, Family: 0.9914, Super: 0.7113
+loss_ce:98.0297, loss_kl:0.0170
+Epoch: 051, Validation: 0.6562, Fold: 0.5056, Family: 0.9921, Super: 0.7241
+loss_ce:99.8200, loss_kl:0.0139
+Epoch: 052, Validation: 0.6590, Fold: 0.5153, Family: 0.9906, Super: 0.7185
+loss_ce:94.0622, loss_kl:0.0152
+Epoch: 053, Validation: 0.6562, Fold: 0.5181, Family: 0.9914, Super: 0.7217
+loss_ce:92.1249, loss_kl:0.0149
+Epoch: 054, Validation: 0.6549, Fold: 0.5000, Family: 0.9914, Super: 0.7129
+loss_ce:86.1804, loss_kl:0.0127
+Epoch: 055, Validation: 0.6386, Fold: 0.5237, Family: 0.9906, Super: 0.7089
+loss_ce:90.5031, loss_kl:0.0153
+Epoch: 056, Validation: 0.6495, Fold: 0.5209, Family: 0.9929, Super: 0.7265
+loss_ce:90.0228, loss_kl:0.0214
+Epoch: 057, Validation: 0.6562, Fold: 0.5195, Family: 0.9921, Super: 0.7337
+loss_ce:93.5023, loss_kl:0.0156
+Epoch: 058, Validation: 0.6549, Fold: 0.5111, Family: 0.9945, Super: 0.7105
+loss_ce:83.5942, loss_kl:0.0175
+Epoch: 059, Validation: 0.6508, Fold: 0.4889, Family: 0.9929, Super: 0.7217
+loss_ce:88.0578, loss_kl:0.0125
+Epoch: 060, Validation: 0.6549, Fold: 0.5056, Family: 0.9937, Super: 0.7081
+loss_ce:88.3972, loss_kl:0.0149
+Epoch: 061, Validation: 0.6495, Fold: 0.5125, Family: 0.9914, Super: 0.7121
+loss_ce:84.7038, loss_kl:0.0154
+Epoch: 062, Validation: 0.6590, Fold: 0.5139, Family: 0.9929, Super: 0.7241
+loss_ce:85.4635, loss_kl:0.0184
+Epoch: 063, Validation: 0.6603, Fold: 0.5070, Family: 0.9921, Super: 0.7241
+loss_ce:81.9949, loss_kl:0.0149
+Epoch: 064, Validation: 0.6644, Fold: 0.5181, Family: 0.9937, Super: 0.7249
+loss_ce:85.1745, loss_kl:0.0130
+Epoch: 065, Validation: 0.6698, Fold: 0.5279, Family: 0.9929, Super: 0.7352
+loss_ce:87.9381, loss_kl:0.0192
+Epoch: 066, Validation: 0.6617, Fold: 0.5279, Family: 0.9921, Super: 0.7257
+loss_ce:81.9252, loss_kl:0.0199
+Epoch: 067, Validation: 0.6644, Fold: 0.5070, Family: 0.9929, Super: 0.7209
+loss_ce:84.3907, loss_kl:0.0134
+Epoch: 068, Validation: 0.6549, Fold: 0.5000, Family: 0.9937, Super: 0.7241
+loss_ce:84.0354, loss_kl:0.0150
+Epoch: 069, Validation: 0.6644, Fold: 0.5237, Family: 0.9929, Super: 0.7161
+loss_ce:80.2071, loss_kl:0.0240
+Epoch: 070, Validation: 0.6726, Fold: 0.5571, Family: 0.9945, Super: 0.7337
+loss_ce:78.8493, loss_kl:0.0196
+Epoch: 071, Validation: 0.6712, Fold: 0.5265, Family: 0.9921, Super: 0.7313
+loss_ce:80.8050, loss_kl:0.0188
+Epoch: 072, Validation: 0.6630, Fold: 0.5195, Family: 0.9953, Super: 0.7289
+loss_ce:85.4261, loss_kl:0.0185
+Epoch: 073, Validation: 0.6658, Fold: 0.5334, Family: 0.9937, Super: 0.7273
+loss_ce:79.6960, loss_kl:0.0197
+Epoch: 074, Validation: 0.6685, Fold: 0.5306, Family: 0.9914, Super: 0.7265
+loss_ce:77.6781, loss_kl:0.0179
+Epoch: 075, Validation: 0.6658, Fold: 0.5195, Family: 0.9921, Super: 0.7313
+loss_ce:76.0046, loss_kl:0.0163
+Epoch: 076, Validation: 0.6739, Fold: 0.5279, Family: 0.9921, Super: 0.7337
+loss_ce:80.9936, loss_kl:0.0177
+Epoch: 077, Validation: 0.6712, Fold: 0.5167, Family: 0.9914, Super: 0.7281
+loss_ce:75.3875, loss_kl:0.0125
+Epoch: 078, Validation: 0.6685, Fold: 0.5348, Family: 0.9914, Super: 0.7368
+loss_ce:76.1068, loss_kl:0.0179
+Epoch: 079, Validation: 0.6780, Fold: 0.5460, Family: 0.9945, Super: 0.7432
+loss_ce:75.3907, loss_kl:0.0164
+Epoch: 080, Validation: 0.6739, Fold: 0.5334, Family: 0.9937, Super: 0.7416
+loss_ce:78.1136, loss_kl:0.0111
+Epoch: 081, Validation: 0.6698, Fold: 0.5320, Family: 0.9929, Super: 0.7265
+loss_ce:78.8312, loss_kl:0.0173
+Epoch: 082, Validation: 0.6780, Fold: 0.5153, Family: 0.9929, Super: 0.7321
+loss_ce:76.6055, loss_kl:0.0121
+Epoch: 083, Validation: 0.6807, Fold: 0.5014, Family: 0.9921, Super: 0.7352
+loss_ce:75.6960, loss_kl:0.0102
+Epoch: 084, Validation: 0.6766, Fold: 0.5139, Family: 0.9929, Super: 0.7313
+loss_ce:78.2630, loss_kl:0.0197
+Epoch: 085, Validation: 0.6861, Fold: 0.5209, Family: 0.9929, Super: 0.7313
+loss_ce:75.1767, loss_kl:0.0143
+Epoch: 086, Validation: 0.6712, Fold: 0.5404, Family: 0.9929, Super: 0.7384
+loss_ce:77.6488, loss_kl:0.0121
+Epoch: 087, Validation: 0.6726, Fold: 0.5320, Family: 0.9945, Super: 0.7440
+loss_ce:78.1084, loss_kl:0.0126
+Epoch: 088, Validation: 0.6671, Fold: 0.5237, Family: 0.9945, Super: 0.7432
+loss_ce:73.7765, loss_kl:0.0140
+Epoch: 089, Validation: 0.6753, Fold: 0.5223, Family: 0.9937, Super: 0.7352
+loss_ce:80.7069, loss_kl:0.0153
+Epoch: 090, Validation: 0.6848, Fold: 0.5404, Family: 0.9937, Super: 0.7392
+loss_ce:79.6442, loss_kl:0.0129
+Epoch: 091, Validation: 0.6698, Fold: 0.5390, Family: 0.9953, Super: 0.7376
+loss_ce:79.0122, loss_kl:0.0119
+Epoch: 092, Validation: 0.6644, Fold: 0.5320, Family: 0.9937, Super: 0.7305
+loss_ce:77.2145, loss_kl:0.0136
+Epoch: 093, Validation: 0.6902, Fold: 0.5515, Family: 0.9929, Super: 0.7472
+loss_ce:77.8232, loss_kl:0.0197
+Epoch: 094, Validation: 0.6698, Fold: 0.5404, Family: 0.9929, Super: 0.7368
+loss_ce:74.8348, loss_kl:0.0151
+Epoch: 095, Validation: 0.6821, Fold: 0.5348, Family: 0.9953, Super: 0.7400
+loss_ce:77.1869, loss_kl:0.0153
+Epoch: 096, Validation: 0.6685, Fold: 0.5251, Family: 0.9921, Super: 0.7400
+loss_ce:73.7678, loss_kl:0.0220
+Epoch: 097, Validation: 0.6726, Fold: 0.5418, Family: 0.9929, Super: 0.7360
+loss_ce:76.5191, loss_kl:0.0151
+Epoch: 098, Validation: 0.6753, Fold: 0.5223, Family: 0.9945, Super: 0.7344
+loss_ce:77.5519, loss_kl:0.0149
+Epoch: 099, Validation: 0.6685, Fold: 0.5418, Family: 0.9914, Super: 0.7337
+loss_ce:78.2806, loss_kl:0.0189
+Epoch: 100, Validation: 0.6726, Fold: 0.5348, Family: 0.9929, Super: 0.7512
+loss_ce:63.2390, loss_kl:0.0135
+Epoch: 101, Validation: 0.6902, Fold: 0.5362, Family: 0.9945, Super: 0.7568
+loss_ce:58.7948, loss_kl:0.0134
+Epoch: 102, Validation: 0.7038, Fold: 0.5501, Family: 0.9945, Super: 0.7632
+loss_ce:57.1920, loss_kl:0.0166
+Epoch: 103, Validation: 0.6957, Fold: 0.5404, Family: 0.9945, Super: 0.7616
+loss_ce:54.9930, loss_kl:0.0099
+Epoch: 104, Validation: 0.6875, Fold: 0.5404, Family: 0.9945, Super: 0.7544
+loss_ce:55.9062, loss_kl:0.0204
+Epoch: 105, Validation: 0.6997, Fold: 0.5543, Family: 0.9945, Super: 0.7735
+loss_ce:54.4762, loss_kl:0.0109
+Epoch: 106, Validation: 0.6848, Fold: 0.5446, Family: 0.9945, Super: 0.7663
+loss_ce:53.4698, loss_kl:0.0192
+Epoch: 107, Validation: 0.6929, Fold: 0.5418, Family: 0.9953, Super: 0.7648
+loss_ce:52.5780, loss_kl:0.0176
+Epoch: 108, Validation: 0.6957, Fold: 0.5487, Family: 0.9945, Super: 0.7536
+loss_ce:53.9010, loss_kl:0.0113
+Epoch: 109, Validation: 0.6916, Fold: 0.5460, Family: 0.9953, Super: 0.7568
+loss_ce:54.9615, loss_kl:0.0163
+Epoch: 110, Validation: 0.6916, Fold: 0.5585, Family: 0.9953, Super: 0.7600
+loss_ce:52.7245, loss_kl:0.0204
+Epoch: 111, Validation: 0.6889, Fold: 0.5585, Family: 0.9937, Super: 0.7640
+loss_ce:51.8834, loss_kl:0.0110
+Epoch: 112, Validation: 0.6957, Fold: 0.5404, Family: 0.9953, Super: 0.7496
+loss_ce:54.5647, loss_kl:0.0292
+Epoch: 113, Validation: 0.6943, Fold: 0.5474, Family: 0.9945, Super: 0.7687
+loss_ce:52.6149, loss_kl:0.0124
+Epoch: 114, Validation: 0.7065, Fold: 0.5515, Family: 0.9953, Super: 0.7640
+loss_ce:54.2930, loss_kl:0.0084
+Epoch: 115, Validation: 0.6957, Fold: 0.5501, Family: 0.9945, Super: 0.7640
+loss_ce:54.6874, loss_kl:0.0199
+Epoch: 116, Validation: 0.7011, Fold: 0.5543, Family: 0.9945, Super: 0.7671
+loss_ce:52.5382, loss_kl:0.0148
+Epoch: 117, Validation: 0.6943, Fold: 0.5501, Family: 0.9945, Super: 0.7496
+loss_ce:55.8202, loss_kl:0.0172
+Epoch: 118, Validation: 0.6970, Fold: 0.5501, Family: 0.9929, Super: 0.7576
+loss_ce:52.9916, loss_kl:0.0180
+Epoch: 119, Validation: 0.6943, Fold: 0.5487, Family: 0.9961, Super: 0.7592
+loss_ce:53.1690, loss_kl:0.0099
+Epoch: 120, Validation: 0.6957, Fold: 0.5487, Family: 0.9945, Super: 0.7632
+loss_ce:51.3348, loss_kl:0.0194
+Epoch: 121, Validation: 0.6929, Fold: 0.5474, Family: 0.9953, Super: 0.7687
+loss_ce:52.6676, loss_kl:0.0105
+Epoch: 122, Validation: 0.6957, Fold: 0.5487, Family: 0.9945, Super: 0.7687
+loss_ce:51.3750, loss_kl:0.0178
+Epoch: 123, Validation: 0.6929, Fold: 0.5529, Family: 0.9937, Super: 0.7632
+loss_ce:53.2693, loss_kl:0.0104
+Epoch: 124, Validation: 0.6916, Fold: 0.5432, Family: 0.9969, Super: 0.7536
+loss_ce:55.8373, loss_kl:0.0144
+Epoch: 125, Validation: 0.6970, Fold: 0.5432, Family: 0.9953, Super: 0.7679
+loss_ce:51.9110, loss_kl:0.0092
+Epoch: 126, Validation: 0.6929, Fold: 0.5487, Family: 0.9953, Super: 0.7600
+loss_ce:53.7549, loss_kl:0.0191
+Epoch: 127, Validation: 0.6916, Fold: 0.5613, Family: 0.9945, Super: 0.7663
+loss_ce:50.3994, loss_kl:0.0202
+Epoch: 128, Validation: 0.6889, Fold: 0.5599, Family: 0.9945, Super: 0.7695
+loss_ce:51.8499, loss_kl:0.0171
+Epoch: 129, Validation: 0.6875, Fold: 0.5390, Family: 0.9945, Super: 0.7576
+loss_ce:52.5574, loss_kl:0.0114
+Epoch: 130, Validation: 0.6929, Fold: 0.5418, Family: 0.9937, Super: 0.7711
+loss_ce:54.0764, loss_kl:0.0124
+Epoch: 131, Validation: 0.6943, Fold: 0.5460, Family: 0.9945, Super: 0.7600
+loss_ce:53.9176, loss_kl:0.0111
+Epoch: 132, Validation: 0.6875, Fold: 0.5669, Family: 0.9945, Super: 0.7512
+loss_ce:50.9994, loss_kl:0.0168
+Epoch: 133, Validation: 0.6957, Fold: 0.5515, Family: 0.9937, Super: 0.7616
+loss_ce:52.4336, loss_kl:0.0113
+Epoch: 134, Validation: 0.6984, Fold: 0.5571, Family: 0.9945, Super: 0.7608
+loss_ce:53.8629, loss_kl:0.0158
+Epoch: 135, Validation: 0.6889, Fold: 0.5446, Family: 0.9945, Super: 0.7576
+loss_ce:54.6169, loss_kl:0.0079
+Epoch: 136, Validation: 0.6861, Fold: 0.5474, Family: 0.9945, Super: 0.7632
+loss_ce:52.7523, loss_kl:0.0161
+Epoch: 137, Validation: 0.6916, Fold: 0.5474, Family: 0.9953, Super: 0.7640
+loss_ce:54.7810, loss_kl:0.0110
+Epoch: 138, Validation: 0.6929, Fold: 0.5543, Family: 0.9945, Super: 0.7600
+loss_ce:54.9270, loss_kl:0.0128
+Epoch: 139, Validation: 0.6970, Fold: 0.5543, Family: 0.9937, Super: 0.7711
+loss_ce:52.3068, loss_kl:0.0177
+Epoch: 140, Validation: 0.6848, Fold: 0.5515, Family: 0.9945, Super: 0.7576
+loss_ce:53.1104, loss_kl:0.0190
+Epoch: 141, Validation: 0.6916, Fold: 0.5487, Family: 0.9945, Super: 0.7687
+loss_ce:53.5861, loss_kl:0.0207
+Epoch: 142, Validation: 0.6902, Fold: 0.5585, Family: 0.9953, Super: 0.7687
+loss_ce:53.5403, loss_kl:0.0160
+Epoch: 143, Validation: 0.7024, Fold: 0.5432, Family: 0.9945, Super: 0.7656
+loss_ce:52.0675, loss_kl:0.0104
+Epoch: 144, Validation: 0.6848, Fold: 0.5529, Family: 0.9945, Super: 0.7640
+loss_ce:56.7427, loss_kl:0.0125
+Epoch: 145, Validation: 0.6929, Fold: 0.5613, Family: 0.9945, Super: 0.7648
+loss_ce:52.6094, loss_kl:0.0185
+Epoch: 146, Validation: 0.6916, Fold: 0.5543, Family: 0.9953, Super: 0.7632
+loss_ce:52.1627, loss_kl:0.0150
+Epoch: 147, Validation: 0.6997, Fold: 0.5529, Family: 0.9953, Super: 0.7640
+loss_ce:53.1623, loss_kl:0.0138
+Epoch: 148, Validation: 0.6957, Fold: 0.5515, Family: 0.9937, Super: 0.7663
+loss_ce:53.8232, loss_kl:0.0165
+Epoch: 149, Validation: 0.6970, Fold: 0.5557, Family: 0.9945, Super: 0.7600
+loss_ce:53.5791, loss_kl:0.0121
+Epoch: 150, Validation: 0.6970, Fold: 0.5460, Family: 0.9945, Super: 0.7695
+loss_ce:53.4527, loss_kl:0.0180
+Epoch: 151, Validation: 0.7038, Fold: 0.5669, Family: 0.9953, Super: 0.7727
+loss_ce:52.9207, loss_kl:0.0234
+Epoch: 152, Validation: 0.6970, Fold: 0.5557, Family: 0.9937, Super: 0.7743
+loss_ce:52.8680, loss_kl:0.0088
+Epoch: 153, Validation: 0.6916, Fold: 0.5585, Family: 0.9945, Super: 0.7576
+loss_ce:54.1182, loss_kl:0.0104
+Epoch: 154, Validation: 0.6984, Fold: 0.5474, Family: 0.9953, Super: 0.7695
+loss_ce:53.0682, loss_kl:0.0121
+Epoch: 155, Validation: 0.6970, Fold: 0.5460, Family: 0.9961, Super: 0.7624
+loss_ce:53.3581, loss_kl:0.0116
+Epoch: 156, Validation: 0.6889, Fold: 0.5557, Family: 0.9953, Super: 0.7727
+loss_ce:54.9676, loss_kl:0.0114
+Epoch: 157, Validation: 0.6929, Fold: 0.5501, Family: 0.9945, Super: 0.7663
+loss_ce:55.3606, loss_kl:0.0145
+Epoch: 158, Validation: 0.7092, Fold: 0.5515, Family: 0.9937, Super: 0.7727
+loss_ce:53.4693, loss_kl:0.0157
+Epoch: 159, Validation: 0.6943, Fold: 0.5557, Family: 0.9945, Super: 0.7767
+loss_ce:52.9780, loss_kl:0.0116
+Epoch: 160, Validation: 0.6916, Fold: 0.5543, Family: 0.9937, Super: 0.7711
+loss_ce:56.1472, loss_kl:0.0220
+Epoch: 161, Validation: 0.6943, Fold: 0.5404, Family: 0.9937, Super: 0.7608
+loss_ce:54.8548, loss_kl:0.0083
+Epoch: 162, Validation: 0.6902, Fold: 0.5627, Family: 0.9953, Super: 0.7640
+loss_ce:53.8019, loss_kl:0.0225
+Epoch: 163, Validation: 0.6889, Fold: 0.5460, Family: 0.9945, Super: 0.7624
+loss_ce:54.3398, loss_kl:0.0102
+Epoch: 164, Validation: 0.6957, Fold: 0.5585, Family: 0.9945, Super: 0.7584
+loss_ce:52.3197, loss_kl:0.0099
+Epoch: 165, Validation: 0.6889, Fold: 0.5529, Family: 0.9953, Super: 0.7727
+loss_ce:54.2432, loss_kl:0.0188
+Epoch: 166, Validation: 0.6861, Fold: 0.5460, Family: 0.9961, Super: 0.7687
+loss_ce:53.4183, loss_kl:0.0110
+Epoch: 167, Validation: 0.6889, Fold: 0.5501, Family: 0.9945, Super: 0.7671
+loss_ce:54.7515, loss_kl:0.0112
+Epoch: 168, Validation: 0.6957, Fold: 0.5543, Family: 0.9945, Super: 0.7679
+loss_ce:53.2540, loss_kl:0.0193
+Epoch: 169, Validation: 0.7065, Fold: 0.5543, Family: 0.9945, Super: 0.7695
+loss_ce:52.6588, loss_kl:0.0102
+Epoch: 170, Validation: 0.6943, Fold: 0.5613, Family: 0.9945, Super: 0.7767
+loss_ce:54.2175, loss_kl:0.0096
+Epoch: 171, Validation: 0.6997, Fold: 0.5655, Family: 0.9945, Super: 0.7743
+loss_ce:52.7064, loss_kl:0.0107
+Epoch: 172, Validation: 0.6970, Fold: 0.5571, Family: 0.9961, Super: 0.7600
+loss_ce:53.4584, loss_kl:0.0201
+Epoch: 173, Validation: 0.6848, Fold: 0.5543, Family: 0.9953, Super: 0.7663
+loss_ce:54.9763, loss_kl:0.0209
+Epoch: 174, Validation: 0.6957, Fold: 0.5446, Family: 0.9953, Super: 0.7687
+loss_ce:51.8749, loss_kl:0.0183
+Epoch: 175, Validation: 0.6902, Fold: 0.5571, Family: 0.9945, Super: 0.7711
+loss_ce:54.9605, loss_kl:0.0164
+Epoch: 176, Validation: 0.6984, Fold: 0.5418, Family: 0.9945, Super: 0.7600
+loss_ce:55.1068, loss_kl:0.0071
+Epoch: 177, Validation: 0.6834, Fold: 0.5529, Family: 0.9937, Super: 0.7608
+loss_ce:55.3544, loss_kl:0.0129
+Epoch: 178, Validation: 0.6984, Fold: 0.5557, Family: 0.9953, Super: 0.7679
+loss_ce:53.6984, loss_kl:0.0087
+Epoch: 179, Validation: 0.6929, Fold: 0.5627, Family: 0.9945, Super: 0.7584
+loss_ce:52.8203, loss_kl:0.0084
+Epoch: 180, Validation: 0.6943, Fold: 0.5474, Family: 0.9945, Super: 0.7671
+loss_ce:55.2200, loss_kl:0.0205
+Epoch: 181, Validation: 0.6916, Fold: 0.5585, Family: 0.9945, Super: 0.7687
+loss_ce:52.9563, loss_kl:0.0130
+Epoch: 182, Validation: 0.6929, Fold: 0.5557, Family: 0.9945, Super: 0.7648
+loss_ce:53.6692, loss_kl:0.0172
+Epoch: 183, Validation: 0.6984, Fold: 0.5529, Family: 0.9953, Super: 0.7679
+loss_ce:55.9180, loss_kl:0.0088
+Epoch: 184, Validation: 0.7038, Fold: 0.5585, Family: 0.9945, Super: 0.7616
+loss_ce:54.7848, loss_kl:0.0089
+Epoch: 185, Validation: 0.6997, Fold: 0.5543, Family: 0.9945, Super: 0.7711
+loss_ce:54.3989, loss_kl:0.0160
+Epoch: 186, Validation: 0.6875, Fold: 0.5710, Family: 0.9937, Super: 0.7640
+loss_ce:53.1508, loss_kl:0.0178
+Epoch: 187, Validation: 0.6997, Fold: 0.5529, Family: 0.9953, Super: 0.7711
+loss_ce:54.2604, loss_kl:0.0148
+Epoch: 188, Validation: 0.6957, Fold: 0.5571, Family: 0.9953, Super: 0.7624
+loss_ce:56.3467, loss_kl:0.0162
+Epoch: 189, Validation: 0.6984, Fold: 0.5557, Family: 0.9953, Super: 0.7663
+loss_ce:55.6995, loss_kl:0.0152
+Epoch: 190, Validation: 0.6916, Fold: 0.5557, Family: 0.9961, Super: 0.7799
+loss_ce:54.7848, loss_kl:0.0082
+Epoch: 191, Validation: 0.6916, Fold: 0.5515, Family: 0.9953, Super: 0.7695
+loss_ce:55.3942, loss_kl:0.0127
+Epoch: 192, Validation: 0.6957, Fold: 0.5655, Family: 0.9953, Super: 0.7656
+loss_ce:55.0139, loss_kl:0.0187
+Epoch: 193, Validation: 0.7024, Fold: 0.5669, Family: 0.9937, Super: 0.7719
+loss_ce:55.7435, loss_kl:0.0206
+Epoch: 194, Validation: 0.6780, Fold: 0.5557, Family: 0.9937, Super: 0.7616
+loss_ce:56.1514, loss_kl:0.0178
+Epoch: 195, Validation: 0.7011, Fold: 0.5585, Family: 0.9961, Super: 0.7727
+loss_ce:54.1746, loss_kl:0.0086
+Epoch: 196, Validation: 0.6916, Fold: 0.5543, Family: 0.9945, Super: 0.7608
+loss_ce:57.5558, loss_kl:0.0109
+Epoch: 197, Validation: 0.6943, Fold: 0.5627, Family: 0.9953, Super: 0.7687
+loss_ce:54.3156, loss_kl:0.0176
+Epoch: 198, Validation: 0.7052, Fold: 0.5613, Family: 0.9953, Super: 0.7671
+loss_ce:56.0251, loss_kl:0.0105
+Epoch: 199, Validation: 0.6984, Fold: 0.5641, Family: 0.9953, Super: 0.7671
+loss_ce:54.6714, loss_kl:0.0118
+Epoch: 200, Validation: 0.6861, Fold: 0.5460, Family: 0.9937, Super: 0.7656
+loss_ce:55.3465, loss_kl:0.0115
+Epoch: 201, Validation: 0.6997, Fold: 0.5599, Family: 0.9953, Super: 0.7703
+loss_ce:54.9138, loss_kl:0.0115
+Epoch: 202, Validation: 0.7024, Fold: 0.5571, Family: 0.9961, Super: 0.7751
+loss_ce:56.3004, loss_kl:0.0120
+Epoch: 203, Validation: 0.6929, Fold: 0.5460, Family: 0.9953, Super: 0.7695
+loss_ce:54.3235, loss_kl:0.0116
+Epoch: 204, Validation: 0.6929, Fold: 0.5669, Family: 0.9953, Super: 0.7663
+loss_ce:57.0561, loss_kl:0.0111
+Epoch: 205, Validation: 0.7011, Fold: 0.5627, Family: 0.9945, Super: 0.7711
+loss_ce:55.6523, loss_kl:0.0234
+Epoch: 206, Validation: 0.6861, Fold: 0.5613, Family: 0.9937, Super: 0.7743
+loss_ce:55.2526, loss_kl:0.0074
+Epoch: 207, Validation: 0.6875, Fold: 0.5613, Family: 0.9945, Super: 0.7616
+loss_ce:55.8415, loss_kl:0.0223
+Epoch: 208, Validation: 0.7065, Fold: 0.5627, Family: 0.9945, Super: 0.7759
+loss_ce:56.1155, loss_kl:0.0169
+Epoch: 209, Validation: 0.6889, Fold: 0.5599, Family: 0.9945, Super: 0.7703
+loss_ce:56.3860, loss_kl:0.0163
+Epoch: 210, Validation: 0.6984, Fold: 0.5557, Family: 0.9953, Super: 0.7743
+loss_ce:55.4638, loss_kl:0.0190
+Epoch: 211, Validation: 0.6902, Fold: 0.5599, Family: 0.9937, Super: 0.7679
+loss_ce:57.1406, loss_kl:0.0188
+Epoch: 212, Validation: 0.6902, Fold: 0.5627, Family: 0.9945, Super: 0.7743
+loss_ce:57.0675, loss_kl:0.0223
+Epoch: 213, Validation: 0.7065, Fold: 0.5655, Family: 0.9945, Super: 0.7719
+loss_ce:56.5194, loss_kl:0.0102
+Epoch: 214, Validation: 0.6929, Fold: 0.5557, Family: 0.9937, Super: 0.7759
+loss_ce:56.7579, loss_kl:0.0104
+Epoch: 215, Validation: 0.6821, Fold: 0.5557, Family: 0.9945, Super: 0.7656
+loss_ce:56.8132, loss_kl:0.0110
+Epoch: 216, Validation: 0.6997, Fold: 0.5641, Family: 0.9953, Super: 0.7735
+loss_ce:55.1515, loss_kl:0.0151
+Epoch: 217, Validation: 0.6943, Fold: 0.5613, Family: 0.9945, Super: 0.7679
+loss_ce:52.9023, loss_kl:0.0191
+Epoch: 218, Validation: 0.6984, Fold: 0.5669, Family: 0.9937, Super: 0.7719
+loss_ce:55.5343, loss_kl:0.0074
+Epoch: 219, Validation: 0.6970, Fold: 0.5501, Family: 0.9953, Super: 0.7687
+loss_ce:54.3114, loss_kl:0.0135
+Epoch: 220, Validation: 0.6929, Fold: 0.5627, Family: 0.9945, Super: 0.7679
+loss_ce:55.5888, loss_kl:0.0171
+Epoch: 221, Validation: 0.6875, Fold: 0.5557, Family: 0.9945, Super: 0.7616
+loss_ce:56.5247, loss_kl:0.0168
+Epoch: 222, Validation: 0.6929, Fold: 0.5627, Family: 0.9945, Super: 0.7751
+loss_ce:56.7645, loss_kl:0.0162
+Epoch: 223, Validation: 0.6902, Fold: 0.5557, Family: 0.9945, Super: 0.7687
+loss_ce:55.7816, loss_kl:0.0069
+Epoch: 224, Validation: 0.6821, Fold: 0.5557, Family: 0.9945, Super: 0.7711
+loss_ce:56.2929, loss_kl:0.0176
+Epoch: 225, Validation: 0.6997, Fold: 0.5627, Family: 0.9953, Super: 0.7719
+loss_ce:56.5564, loss_kl:0.0249
+Epoch: 226, Validation: 0.6929, Fold: 0.5529, Family: 0.9945, Super: 0.7775
+loss_ce:55.8739, loss_kl:0.0149
+Epoch: 227, Validation: 0.6997, Fold: 0.5529, Family: 0.9945, Super: 0.7735
+loss_ce:56.1342, loss_kl:0.0082
+Epoch: 228, Validation: 0.6916, Fold: 0.5655, Family: 0.9961, Super: 0.7679
+loss_ce:58.1654, loss_kl:0.0173
+Epoch: 229, Validation: 0.7024, Fold: 0.5655, Family: 0.9961, Super: 0.7679
+loss_ce:57.8000, loss_kl:0.0122
+Epoch: 230, Validation: 0.7065, Fold: 0.5557, Family: 0.9969, Super: 0.7735
+loss_ce:57.4563, loss_kl:0.0156
+Epoch: 231, Validation: 0.6970, Fold: 0.5557, Family: 0.9937, Super: 0.7632
+loss_ce:57.9782, loss_kl:0.0096
+Epoch: 232, Validation: 0.7024, Fold: 0.5641, Family: 0.9961, Super: 0.7703
+loss_ce:57.2326, loss_kl:0.0103
+Epoch: 233, Validation: 0.6970, Fold: 0.5585, Family: 0.9929, Super: 0.7783
+loss_ce:56.8778, loss_kl:0.0079
+Epoch: 234, Validation: 0.7038, Fold: 0.5696, Family: 0.9937, Super: 0.7719
+loss_ce:55.7342, loss_kl:0.0088
+Epoch: 235, Validation: 0.6889, Fold: 0.5432, Family: 0.9937, Super: 0.7663
+loss_ce:56.4670, loss_kl:0.0170
+Epoch: 236, Validation: 0.6970, Fold: 0.5487, Family: 0.9953, Super: 0.7719
+loss_ce:57.8144, loss_kl:0.0150
+Epoch: 237, Validation: 0.6929, Fold: 0.5641, Family: 0.9945, Super: 0.7656
+loss_ce:56.3085, loss_kl:0.0152
+Epoch: 238, Validation: 0.7052, Fold: 0.5557, Family: 0.9937, Super: 0.7783
+loss_ce:56.5694, loss_kl:0.0133
+Epoch: 239, Validation: 0.6943, Fold: 0.5585, Family: 0.9953, Super: 0.7807
+loss_ce:56.3694, loss_kl:0.0131
+Epoch: 240, Validation: 0.7092, Fold: 0.5585, Family: 0.9937, Super: 0.7799
+loss_ce:56.5975, loss_kl:0.0181
+Epoch: 241, Validation: 0.6916, Fold: 0.5487, Family: 0.9953, Super: 0.7616
+loss_ce:55.4775, loss_kl:0.0273
+Epoch: 242, Validation: 0.7038, Fold: 0.5641, Family: 0.9945, Super: 0.7751
+loss_ce:54.9307, loss_kl:0.0228
+Epoch: 243, Validation: 0.6984, Fold: 0.5557, Family: 0.9945, Super: 0.7671
+loss_ce:55.2217, loss_kl:0.0202
+Epoch: 244, Validation: 0.7038, Fold: 0.5613, Family: 0.9937, Super: 0.7783
+loss_ce:56.7118, loss_kl:0.0117
+Epoch: 245, Validation: 0.6997, Fold: 0.5543, Family: 0.9937, Super: 0.7767
+loss_ce:57.1459, loss_kl:0.0168
+Epoch: 246, Validation: 0.6984, Fold: 0.5669, Family: 0.9953, Super: 0.7640
+loss_ce:58.4452, loss_kl:0.0107
+Epoch: 247, Validation: 0.7092, Fold: 0.5627, Family: 0.9953, Super: 0.7767
+loss_ce:58.0026, loss_kl:0.0231
+Epoch: 248, Validation: 0.7038, Fold: 0.5557, Family: 0.9945, Super: 0.7719
+loss_ce:56.7431, loss_kl:0.0112
+Epoch: 249, Validation: 0.6957, Fold: 0.5557, Family: 0.9929, Super: 0.7703
+loss_ce:57.5938, loss_kl:0.0112
+Epoch: 250, Validation: 0.7011, Fold: 0.5571, Family: 0.9953, Super: 0.7735
+loss_ce:56.7785, loss_kl:0.0141
+Epoch: 251, Validation: 0.6970, Fold: 0.5599, Family: 0.9953, Super: 0.7871
+loss_ce:59.5027, loss_kl:0.0160
+Epoch: 252, Validation: 0.7079, Fold: 0.5641, Family: 0.9961, Super: 0.7759
+loss_ce:56.4230, loss_kl:0.0094
+Epoch: 253, Validation: 0.6875, Fold: 0.5655, Family: 0.9945, Super: 0.7679
+loss_ce:58.8395, loss_kl:0.0209
+Epoch: 254, Validation: 0.6984, Fold: 0.5557, Family: 0.9953, Super: 0.7735
+loss_ce:57.6995, loss_kl:0.0252
+Epoch: 255, Validation: 0.6970, Fold: 0.5529, Family: 0.9953, Super: 0.7719
+loss_ce:57.2444, loss_kl:0.0189
+Epoch: 256, Validation: 0.6957, Fold: 0.5474, Family: 0.9953, Super: 0.7671
+loss_ce:55.9470, loss_kl:0.0100
+Epoch: 257, Validation: 0.6957, Fold: 0.5571, Family: 0.9953, Super: 0.7767
+loss_ce:56.4370, loss_kl:0.0130
+Epoch: 258, Validation: 0.6889, Fold: 0.5474, Family: 0.9953, Super: 0.7600
+loss_ce:58.2377, loss_kl:0.0122
+Epoch: 259, Validation: 0.7011, Fold: 0.5655, Family: 0.9937, Super: 0.7719
+loss_ce:58.0051, loss_kl:0.0157
+Epoch: 260, Validation: 0.6957, Fold: 0.5627, Family: 0.9945, Super: 0.7815
+loss_ce:57.9462, loss_kl:0.0182
+Epoch: 261, Validation: 0.7038, Fold: 0.5613, Family: 0.9953, Super: 0.7767
+loss_ce:56.3065, loss_kl:0.0187
+Epoch: 262, Validation: 0.6943, Fold: 0.5613, Family: 0.9953, Super: 0.7767
+loss_ce:58.1764, loss_kl:0.0107
+Epoch: 263, Validation: 0.6957, Fold: 0.5585, Family: 0.9945, Super: 0.7727
+loss_ce:58.9046, loss_kl:0.0092
+Epoch: 264, Validation: 0.6984, Fold: 0.5710, Family: 0.9945, Super: 0.7656
+loss_ce:56.5656, loss_kl:0.0161
+Epoch: 265, Validation: 0.7079, Fold: 0.5613, Family: 0.9961, Super: 0.7799
+loss_ce:58.3008, loss_kl:0.0104
+Epoch: 266, Validation: 0.6970, Fold: 0.5613, Family: 0.9945, Super: 0.7711
+loss_ce:59.1195, loss_kl:0.0172
+Epoch: 267, Validation: 0.6929, Fold: 0.5627, Family: 0.9953, Super: 0.7608
+loss_ce:57.4231, loss_kl:0.0219
+Epoch: 268, Validation: 0.6984, Fold: 0.5571, Family: 0.9945, Super: 0.7711
+loss_ce:58.4589, loss_kl:0.0117
+Epoch: 269, Validation: 0.6970, Fold: 0.5613, Family: 0.9945, Super: 0.7815
+loss_ce:54.8399, loss_kl:0.0171
+Epoch: 270, Validation: 0.6861, Fold: 0.5585, Family: 0.9953, Super: 0.7687
+loss_ce:59.1129, loss_kl:0.0117
+Epoch: 271, Validation: 0.7011, Fold: 0.5599, Family: 0.9953, Super: 0.7807
+loss_ce:58.1255, loss_kl:0.0085
+Epoch: 272, Validation: 0.6889, Fold: 0.5585, Family: 0.9937, Super: 0.7727
+loss_ce:57.2680, loss_kl:0.0184
+Epoch: 273, Validation: 0.6984, Fold: 0.5627, Family: 0.9953, Super: 0.7759
+loss_ce:58.2203, loss_kl:0.0179
+Epoch: 274, Validation: 0.6970, Fold: 0.5585, Family: 0.9945, Super: 0.7687
+loss_ce:56.9356, loss_kl:0.0268
+Epoch: 275, Validation: 0.6970, Fold: 0.5613, Family: 0.9961, Super: 0.7663
+loss_ce:58.4618, loss_kl:0.0157
+Epoch: 276, Validation: 0.6970, Fold: 0.5599, Family: 0.9929, Super: 0.7855
+loss_ce:59.2141, loss_kl:0.0255
+Epoch: 277, Validation: 0.7024, Fold: 0.5571, Family: 0.9953, Super: 0.7751
+loss_ce:56.4155, loss_kl:0.0209
+Epoch: 278, Validation: 0.6984, Fold: 0.5571, Family: 0.9953, Super: 0.7727
+loss_ce:56.3268, loss_kl:0.0185
+Epoch: 279, Validation: 0.7011, Fold: 0.5641, Family: 0.9969, Super: 0.7743
+loss_ce:57.7148, loss_kl:0.0264
+Epoch: 280, Validation: 0.6984, Fold: 0.5613, Family: 0.9961, Super: 0.7759
+loss_ce:56.2298, loss_kl:0.0159
+Epoch: 281, Validation: 0.6943, Fold: 0.5501, Family: 0.9945, Super: 0.7632
+loss_ce:58.0819, loss_kl:0.0197
+Epoch: 282, Validation: 0.6889, Fold: 0.5557, Family: 0.9961, Super: 0.7600
+loss_ce:55.6634, loss_kl:0.0139
+Epoch: 283, Validation: 0.7038, Fold: 0.5669, Family: 0.9953, Super: 0.7743
+loss_ce:59.6747, loss_kl:0.0107
+Epoch: 284, Validation: 0.6984, Fold: 0.5613, Family: 0.9953, Super: 0.7687
+loss_ce:57.4496, loss_kl:0.0169
+Epoch: 285, Validation: 0.7024, Fold: 0.5682, Family: 0.9953, Super: 0.7743
+loss_ce:57.7475, loss_kl:0.0192
+Epoch: 286, Validation: 0.6984, Fold: 0.5613, Family: 0.9953, Super: 0.7679
+loss_ce:57.2039, loss_kl:0.0189
+Epoch: 287, Validation: 0.6984, Fold: 0.5543, Family: 0.9945, Super: 0.7767
+loss_ce:56.0999, loss_kl:0.0190
+Epoch: 288, Validation: 0.6997, Fold: 0.5641, Family: 0.9945, Super: 0.7711
+loss_ce:58.2491, loss_kl:0.0148
+Epoch: 289, Validation: 0.6997, Fold: 0.5696, Family: 0.9953, Super: 0.7695
+loss_ce:58.4192, loss_kl:0.0080
+Epoch: 290, Validation: 0.6957, Fold: 0.5571, Family: 0.9953, Super: 0.7735
+loss_ce:58.4025, loss_kl:0.0206
+Epoch: 291, Validation: 0.7011, Fold: 0.5529, Family: 0.9945, Super: 0.7767
+loss_ce:57.9795, loss_kl:0.0119
+Epoch: 292, Validation: 0.6957, Fold: 0.5613, Family: 0.9953, Super: 0.7751
+loss_ce:58.1320, loss_kl:0.0074
+Epoch: 293, Validation: 0.7079, Fold: 0.5641, Family: 0.9945, Super: 0.7687
+loss_ce:57.6063, loss_kl:0.0206
+Epoch: 294, Validation: 0.7092, Fold: 0.5613, Family: 0.9945, Super: 0.7815
+loss_ce:58.2439, loss_kl:0.0092
+Epoch: 295, Validation: 0.6984, Fold: 0.5613, Family: 0.9945, Super: 0.7711
+loss_ce:57.7649, loss_kl:0.0184
+Epoch: 296, Validation: 0.7038, Fold: 0.5585, Family: 0.9945, Super: 0.7663
+loss_ce:56.5071, loss_kl:0.0139
+Epoch: 297, Validation: 0.6997, Fold: 0.5613, Family: 0.9953, Super: 0.7687
+loss_ce:56.6400, loss_kl:0.0100
+Epoch: 298, Validation: 0.6984, Fold: 0.5557, Family: 0.9961, Super: 0.7735
+loss_ce:58.7058, loss_kl:0.0186
+Epoch: 299, Validation: 0.6984, Fold: 0.5669, Family: 0.9953, Super: 0.7751
+loss_ce:58.2178, loss_kl:0.0200
+Epoch: 300, Validation: 0.7024, Fold: 0.5585, Family: 0.9961, Super: 0.7783
+loss_ce:57.5958, loss_kl:0.0135
+Epoch: 301, Validation: 0.6984, Fold: 0.5515, Family: 0.9945, Super: 0.7735
+loss_ce:58.2591, loss_kl:0.0217
+Epoch: 302, Validation: 0.7011, Fold: 0.5655, Family: 0.9953, Super: 0.7767
+loss_ce:57.7580, loss_kl:0.0166
+Epoch: 303, Validation: 0.7038, Fold: 0.5710, Family: 0.9953, Super: 0.7807
+loss_ce:56.2750, loss_kl:0.0284
+Epoch: 304, Validation: 0.7120, Fold: 0.5655, Family: 0.9937, Super: 0.7687
+loss_ce:57.0490, loss_kl:0.0148
+Epoch: 305, Validation: 0.7052, Fold: 0.5682, Family: 0.9945, Super: 0.7807
+loss_ce:55.6188, loss_kl:0.0169
+Epoch: 306, Validation: 0.7092, Fold: 0.5571, Family: 0.9953, Super: 0.7799
+loss_ce:55.5436, loss_kl:0.0154
+Epoch: 307, Validation: 0.7065, Fold: 0.5669, Family: 0.9953, Super: 0.7807
+loss_ce:56.7137, loss_kl:0.0094
+Epoch: 308, Validation: 0.6929, Fold: 0.5571, Family: 0.9945, Super: 0.7735
+loss_ce:55.5200, loss_kl:0.0192
+Epoch: 309, Validation: 0.7011, Fold: 0.5738, Family: 0.9945, Super: 0.7735
+loss_ce:56.1473, loss_kl:0.0091
+Epoch: 310, Validation: 0.6929, Fold: 0.5655, Family: 0.9953, Super: 0.7767
+loss_ce:56.7431, loss_kl:0.0099
+Epoch: 311, Validation: 0.7038, Fold: 0.5669, Family: 0.9945, Super: 0.7759
+loss_ce:57.3066, loss_kl:0.0173
+Epoch: 312, Validation: 0.7038, Fold: 0.5710, Family: 0.9961, Super: 0.7711
+loss_ce:56.9394, loss_kl:0.0208
+Epoch: 313, Validation: 0.6997, Fold: 0.5669, Family: 0.9945, Super: 0.7791
+loss_ce:55.0196, loss_kl:0.0092
+Epoch: 314, Validation: 0.7052, Fold: 0.5585, Family: 0.9961, Super: 0.7767
+loss_ce:58.0445, loss_kl:0.0190
+Epoch: 315, Validation: 0.6943, Fold: 0.5487, Family: 0.9953, Super: 0.7632
+loss_ce:55.9432, loss_kl:0.0100
+Epoch: 316, Validation: 0.7065, Fold: 0.5641, Family: 0.9953, Super: 0.7799
+loss_ce:56.0805, loss_kl:0.0201
+Epoch: 317, Validation: 0.6943, Fold: 0.5585, Family: 0.9953, Super: 0.7600
+loss_ce:56.5610, loss_kl:0.0069
+Epoch: 318, Validation: 0.6970, Fold: 0.5543, Family: 0.9953, Super: 0.7719
+loss_ce:56.5397, loss_kl:0.0150
+Epoch: 319, Validation: 0.7065, Fold: 0.5655, Family: 0.9945, Super: 0.7783
+loss_ce:56.8943, loss_kl:0.0157
+Epoch: 320, Validation: 0.7011, Fold: 0.5655, Family: 0.9953, Super: 0.7799
+loss_ce:57.0638, loss_kl:0.0151
+Epoch: 321, Validation: 0.6957, Fold: 0.5613, Family: 0.9945, Super: 0.7743
+loss_ce:57.0647, loss_kl:0.0093
+Epoch: 322, Validation: 0.7038, Fold: 0.5571, Family: 0.9961, Super: 0.7791
+loss_ce:56.2877, loss_kl:0.0161
+Epoch: 323, Validation: 0.7038, Fold: 0.5613, Family: 0.9969, Super: 0.7807
+loss_ce:52.8019, loss_kl:0.0122
+Epoch: 324, Validation: 0.6916, Fold: 0.5655, Family: 0.9953, Super: 0.7815
+loss_ce:56.7771, loss_kl:0.0131
+Epoch: 325, Validation: 0.6984, Fold: 0.5571, Family: 0.9945, Super: 0.7679
+loss_ce:57.3727, loss_kl:0.0128
+Epoch: 326, Validation: 0.6943, Fold: 0.5641, Family: 0.9945, Super: 0.7799
+loss_ce:55.2425, loss_kl:0.0089
+Epoch: 327, Validation: 0.7011, Fold: 0.5571, Family: 0.9961, Super: 0.7791
+loss_ce:56.0790, loss_kl:0.0120
+Epoch: 328, Validation: 0.6970, Fold: 0.5669, Family: 0.9953, Super: 0.7711
+loss_ce:56.2391, loss_kl:0.0189
+Epoch: 329, Validation: 0.7052, Fold: 0.5710, Family: 0.9953, Super: 0.7775
+loss_ce:56.1835, loss_kl:0.0121
+Epoch: 330, Validation: 0.7147, Fold: 0.5655, Family: 0.9953, Super: 0.7839
+loss_ce:57.3162, loss_kl:0.0147
+Epoch: 331, Validation: 0.6970, Fold: 0.5669, Family: 0.9945, Super: 0.7759
+loss_ce:56.1073, loss_kl:0.0175
+Epoch: 332, Validation: 0.6957, Fold: 0.5571, Family: 0.9961, Super: 0.7695
+loss_ce:56.8258, loss_kl:0.0106
+Epoch: 333, Validation: 0.6970, Fold: 0.5557, Family: 0.9937, Super: 0.7823
+loss_ce:56.0001, loss_kl:0.0140
+Epoch: 334, Validation: 0.7079, Fold: 0.5738, Family: 0.9961, Super: 0.7815
+loss_ce:55.7862, loss_kl:0.0183
+Epoch: 335, Validation: 0.6943, Fold: 0.5669, Family: 0.9953, Super: 0.7743
+loss_ce:54.7582, loss_kl:0.0080
+Epoch: 336, Validation: 0.7079, Fold: 0.5585, Family: 0.9953, Super: 0.7751
+loss_ce:55.1007, loss_kl:0.0079
+Epoch: 337, Validation: 0.6984, Fold: 0.5585, Family: 0.9961, Super: 0.7783
+loss_ce:54.4552, loss_kl:0.0113
+Epoch: 338, Validation: 0.6997, Fold: 0.5669, Family: 0.9945, Super: 0.7791
+loss_ce:56.3400, loss_kl:0.0173
+Epoch: 339, Validation: 0.6997, Fold: 0.5724, Family: 0.9953, Super: 0.7719
+loss_ce:55.1759, loss_kl:0.0106
+Epoch: 340, Validation: 0.6997, Fold: 0.5627, Family: 0.9945, Super: 0.7743
+loss_ce:54.3544, loss_kl:0.0153
+Epoch: 341, Validation: 0.7052, Fold: 0.5627, Family: 0.9953, Super: 0.7759
+loss_ce:54.4742, loss_kl:0.0062
+Epoch: 342, Validation: 0.6957, Fold: 0.5627, Family: 0.9961, Super: 0.7624
+loss_ce:56.6681, loss_kl:0.0101
+Epoch: 343, Validation: 0.6902, Fold: 0.5571, Family: 0.9953, Super: 0.7767
+loss_ce:55.7144, loss_kl:0.0101
+Epoch: 344, Validation: 0.7024, Fold: 0.5724, Family: 0.9945, Super: 0.7751
+loss_ce:56.8908, loss_kl:0.0110
+Epoch: 345, Validation: 0.7079, Fold: 0.5710, Family: 0.9953, Super: 0.7735
+loss_ce:56.3974, loss_kl:0.0192
+Epoch: 346, Validation: 0.6902, Fold: 0.5557, Family: 0.9953, Super: 0.7735
+loss_ce:55.5589, loss_kl:0.0256
+Epoch: 347, Validation: 0.6970, Fold: 0.5724, Family: 0.9945, Super: 0.7791
+loss_ce:55.6834, loss_kl:0.0226
+Epoch: 348, Validation: 0.6984, Fold: 0.5613, Family: 0.9945, Super: 0.7775
+loss_ce:56.5070, loss_kl:0.0119
+Epoch: 349, Validation: 0.7174, Fold: 0.5682, Family: 0.9937, Super: 0.7807
+loss_ce:57.6345, loss_kl:0.0126
+Epoch: 350, Validation: 0.6997, Fold: 0.5585, Family: 0.9945, Super: 0.7783
+loss_ce:53.1239, loss_kl:0.0108
+Epoch: 351, Validation: 0.6957, Fold: 0.5571, Family: 0.9945, Super: 0.7735
+loss_ce:57.5322, loss_kl:0.0161
+Epoch: 352, Validation: 0.7065, Fold: 0.5655, Family: 0.9945, Super: 0.7767
+loss_ce:54.8381, loss_kl:0.0156
+Epoch: 353, Validation: 0.7052, Fold: 0.5557, Family: 0.9969, Super: 0.7823
+loss_ce:57.3102, loss_kl:0.0150
+Epoch: 354, Validation: 0.7011, Fold: 0.5571, Family: 0.9945, Super: 0.7695
+loss_ce:56.8153, loss_kl:0.0177
+Epoch: 355, Validation: 0.7106, Fold: 0.5585, Family: 0.9961, Super: 0.7767
+loss_ce:55.1068, loss_kl:0.0227
+Epoch: 356, Validation: 0.7011, Fold: 0.5627, Family: 0.9953, Super: 0.7687
+loss_ce:55.3353, loss_kl:0.0118
+Epoch: 357, Validation: 0.6957, Fold: 0.5641, Family: 0.9953, Super: 0.7648
+loss_ce:55.2248, loss_kl:0.0088
+Epoch: 358, Validation: 0.6997, Fold: 0.5571, Family: 0.9945, Super: 0.7735
+loss_ce:55.8414, loss_kl:0.0189
+Epoch: 359, Validation: 0.7052, Fold: 0.5571, Family: 0.9961, Super: 0.7656
+loss_ce:54.2247, loss_kl:0.0199
+Epoch: 360, Validation: 0.7024, Fold: 0.5599, Family: 0.9945, Super: 0.7815
+loss_ce:56.3860, loss_kl:0.0095
+Epoch: 361, Validation: 0.6984, Fold: 0.5655, Family: 0.9953, Super: 0.7727
+loss_ce:56.8360, loss_kl:0.0191
+Epoch: 362, Validation: 0.7011, Fold: 0.5669, Family: 0.9945, Super: 0.7775
+loss_ce:54.1667, loss_kl:0.0161
+Epoch: 363, Validation: 0.6957, Fold: 0.5585, Family: 0.9953, Super: 0.7743
+loss_ce:55.8305, loss_kl:0.0209
+Epoch: 364, Validation: 0.7052, Fold: 0.5613, Family: 0.9953, Super: 0.7735
+loss_ce:56.3139, loss_kl:0.0165
+Epoch: 365, Validation: 0.7038, Fold: 0.5613, Family: 0.9953, Super: 0.7735
+loss_ce:54.3878, loss_kl:0.0153
+Epoch: 366, Validation: 0.6957, Fold: 0.5655, Family: 0.9945, Super: 0.7751
+loss_ce:56.4572, loss_kl:0.0300
+Epoch: 367, Validation: 0.6957, Fold: 0.5669, Family: 0.9953, Super: 0.7767
+loss_ce:55.8897, loss_kl:0.0221
+Epoch: 368, Validation: 0.7038, Fold: 0.5738, Family: 0.9953, Super: 0.7711
+loss_ce:54.8423, loss_kl:0.0076
+Epoch: 369, Validation: 0.6970, Fold: 0.5529, Family: 0.9953, Super: 0.7735
+loss_ce:53.9580, loss_kl:0.0195
+Epoch: 370, Validation: 0.6970, Fold: 0.5543, Family: 0.9953, Super: 0.7799
+loss_ce:55.4038, loss_kl:0.0076
+Epoch: 371, Validation: 0.7065, Fold: 0.5613, Family: 0.9961, Super: 0.7663
+loss_ce:56.2335, loss_kl:0.0130
+Epoch: 372, Validation: 0.7079, Fold: 0.5599, Family: 0.9945, Super: 0.7807
+loss_ce:53.9753, loss_kl:0.0150
+Epoch: 373, Validation: 0.7079, Fold: 0.5669, Family: 0.9961, Super: 0.7687
+loss_ce:57.2391, loss_kl:0.0107
+Epoch: 374, Validation: 0.7052, Fold: 0.5696, Family: 0.9937, Super: 0.7727
+loss_ce:55.2349, loss_kl:0.0204
+Epoch: 375, Validation: 0.6957, Fold: 0.5585, Family: 0.9953, Super: 0.7703
+loss_ce:58.0908, loss_kl:0.0076
+Epoch: 376, Validation: 0.6997, Fold: 0.5627, Family: 0.9953, Super: 0.7791
+loss_ce:56.0170, loss_kl:0.0170
+Epoch: 377, Validation: 0.6957, Fold: 0.5585, Family: 0.9961, Super: 0.7751
+loss_ce:56.1309, loss_kl:0.0121
+Epoch: 378, Validation: 0.7024, Fold: 0.5571, Family: 0.9953, Super: 0.7751
+loss_ce:55.4570, loss_kl:0.0079
+Epoch: 379, Validation: 0.7065, Fold: 0.5557, Family: 0.9961, Super: 0.7815
+loss_ce:53.9462, loss_kl:0.0181
+Epoch: 380, Validation: 0.7133, Fold: 0.5655, Family: 0.9953, Super: 0.7775
+loss_ce:54.9297, loss_kl:0.0248
+Epoch: 381, Validation: 0.6997, Fold: 0.5641, Family: 0.9953, Super: 0.7751
+loss_ce:54.5292, loss_kl:0.0097
+Epoch: 382, Validation: 0.7038, Fold: 0.5738, Family: 0.9961, Super: 0.7719
+loss_ce:56.9192, loss_kl:0.0263
+Epoch: 383, Validation: 0.7160, Fold: 0.5585, Family: 0.9945, Super: 0.7815
+loss_ce:55.4089, loss_kl:0.0181
+Epoch: 384, Validation: 0.7052, Fold: 0.5613, Family: 0.9953, Super: 0.7727
+loss_ce:56.3269, loss_kl:0.0205
+Epoch: 385, Validation: 0.7052, Fold: 0.5682, Family: 0.9953, Super: 0.7847
+loss_ce:57.1272, loss_kl:0.0243
+Epoch: 386, Validation: 0.6970, Fold: 0.5529, Family: 0.9953, Super: 0.7727
+loss_ce:55.2000, loss_kl:0.0185
+Epoch: 387, Validation: 0.6984, Fold: 0.5696, Family: 0.9953, Super: 0.7727
+loss_ce:54.7000, loss_kl:0.0134
+Epoch: 388, Validation: 0.7052, Fold: 0.5641, Family: 0.9953, Super: 0.7831
+loss_ce:54.0591, loss_kl:0.0200
+Epoch: 389, Validation: 0.6997, Fold: 0.5613, Family: 0.9961, Super: 0.7775
+loss_ce:55.8105, loss_kl:0.0218
+Epoch: 390, Validation: 0.6984, Fold: 0.5655, Family: 0.9961, Super: 0.7719
+loss_ce:55.1127, loss_kl:0.0084
+Epoch: 391, Validation: 0.7052, Fold: 0.5557, Family: 0.9961, Super: 0.7783
+loss_ce:54.6311, loss_kl:0.0099
+Epoch: 392, Validation: 0.7079, Fold: 0.5585, Family: 0.9953, Super: 0.7815
+loss_ce:57.7042, loss_kl:0.0168
+Epoch: 393, Validation: 0.7052, Fold: 0.5585, Family: 0.9961, Super: 0.7775
+loss_ce:54.5099, loss_kl:0.0067
+Epoch: 394, Validation: 0.6997, Fold: 0.5669, Family: 0.9953, Super: 0.7727
+loss_ce:54.9775, loss_kl:0.0273
+Epoch: 395, Validation: 0.6889, Fold: 0.5627, Family: 0.9945, Super: 0.7648
+loss_ce:54.7628, loss_kl:0.0137
+Epoch: 396, Validation: 0.6997, Fold: 0.5529, Family: 0.9937, Super: 0.7791
+loss_ce:57.9039, loss_kl:0.0177
+Epoch: 397, Validation: 0.7024, Fold: 0.5613, Family: 0.9953, Super: 0.7735
+loss_ce:56.1389, loss_kl:0.0199
+Epoch: 398, Validation: 0.7092, Fold: 0.5627, Family: 0.9961, Super: 0.7775
+loss_ce:53.5430, loss_kl:0.0069
+Epoch: 399, Validation: 0.7011, Fold: 0.5724, Family: 0.9953, Super: 0.7751
+loss_ce:55.6587, loss_kl:0.0208
+Epoch: 400, Validation: 0.7011, Fold: 0.5599, Family: 0.9961, Super: 0.7679
+Best: 349, Validation: 0.7174, Fold: 0.5738, Family: 0.9969, Super: 0.7871, Valided Fold: 0.5682, Valided Family: 0.9937, Valided Super: 0.7807
