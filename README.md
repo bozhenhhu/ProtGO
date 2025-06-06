@@ -7,7 +7,9 @@ ProtGO: Function-Guided Protein Modeling for Unified Representation Learning.
 
 
 ## File Specification
-
+This model is based on [CoupleNet](https://github.com/bozhenhhu/CoupleNet).
+## Dataset
+From [GearNet](https://github.com/DeepGraphLearning/GearNet), [IEConv](https://github.com/phermosilla/IEConv_proteins) and [KeAP](https://github.com/RL4M/KeAP).
 
 ## Dependencies
 PyTorch 1.13.1
@@ -31,7 +33,7 @@ The code is released under MIT License.
 ### Related Repos
 Thanks for these great work:
 
-1. [CDConv](https://github.com/hehefan/Continuous-Discrete-Convolution) &emsp; 2. [GearNet](https://github.com/DeepGraphLearning/GearNet) 
+1. [CDConv](https://github.com/hehefan/Continuous-Discrete-Convolution) &emsp; 2. [GearNet](https://github.com/DeepGraphLearning/GearNet) &emsp; 3.[KeAP](https://github.com/RL4M/KeAP) &emsp; 4.[IEConv](https://github.com/phermosilla/IEConv_proteins)
 
 ### Citation
 ```
